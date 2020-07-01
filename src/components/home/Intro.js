@@ -3,10 +3,10 @@ import { Container, Row, Col, Jumbotron } from 'reactstrap'
 
 const Intro = () => {
     return (
-        <div>
-            <Jumbotron fluid>
-                <Container fluid>
-                    <h1 class="display-4">Header 1</h1>
+        <section>
+            <Jumbotron>
+                <Container>
+                    <h1 className="display-4">Header 1</h1>
                     <div className="content">
                         <p className="lead">Lorem ipsum dolor sit amet debitis maiores vitae asperiores?
                         </p>
@@ -14,7 +14,7 @@ const Intro = () => {
                     </div>
                 </Container>
             </Jumbotron>
-        </div>
+        </section>
     )
 }
 
