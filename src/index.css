@@ -13,6 +13,10 @@ body{
 }
 .nav-link{
     color: blanchedalmond!important;
+    
+}
+.nav-item{
+  border: red!important;
 }
 .nav-link:hover{
   color: rebeccapurple!important;
@@ -22,11 +26,15 @@ body{
 .navbar-brand{
     color: blanchedalmond!important;
 }
+.navbar-text{
+  color: blanchedalmond!important;
+  font-size: larger;
+}
 .footer {
     background-color: #ce4a7e;
     color: #fafafa;
     font-weight: 100;
-    font-size: smaller;
-    padding-top: .5rem;
-
+    padding: 1rem 2rem 1rem 2rem;
+    text-align: center;
+    
 }

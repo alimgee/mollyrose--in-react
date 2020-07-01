@@ -1,21 +1,20 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import {Route, Link, NavLink, BrowserRouter as Router, Switch} from 'react-router-dom'
-import App from './App'
+import {Route, BrowserRouter as Router, Switch} from 'react-router-dom'
+import App from './components/home/App'
 import * as serviceWorker from './serviceWorker'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Menu from './components/Menu'
 import Footer from './components/Footer'
-import Contact from './components/Contact'
+import Story from './components/story/Story'
 import './index.css'
-
 
   const routing = (
     <Router>
     <Menu />
     <Switch>
           <Route exact path="/" component={App} />
-          <Route path="/contact" component={Contact} />
+          <Route path="/story/" component={Story} />
           
         </Switch>
       <Footer />

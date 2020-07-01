@@ -19,19 +19,18 @@ const Menu = (props) => {
   return (
     <div>
       <Navbar light expand="md">
-        <NavbarBrand href="/">MollyRose</NavbarBrand>
+        <NavbarBrand href="/">MollyRose.ie</NavbarBrand>
+        <NavbarText className="d-none d-sm-block">Lets talk about childhood cancer</NavbarText>
         <NavbarToggler onClick={toggle} />
         <Collapse isOpen={isOpen} navbar>
-          <Nav className="mr-auto" navbar>
+          <Nav className="ml-auto" navbar>
             <NavItem>
               <NavLink href="/">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/contact">Contact</NavLink>
-            </NavItem>
-            
-          </Nav>
-          <NavbarText>Lets talk about childhood cancer</NavbarText>
+              <NavLink href="/story/">Mollys Story</NavLink>
+            </NavItem>            
+          </Nav>         
         </Collapse>
       </Navbar>
     </div>
