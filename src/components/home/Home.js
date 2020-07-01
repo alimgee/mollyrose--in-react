@@ -1,12 +1,11 @@
 import React from 'react';
 import {Container, Row, Col} from 'reactstrap'
+import Intro from './Intro'
 
 const App = () => {
   return (
-      <Container>
-          <Row>
-              <Col><h1>Landing page</h1></Col>
-          </Row>
-      </Container>)
+      <main>
+      <Intro />
+      </main>)
 }
 export default App;

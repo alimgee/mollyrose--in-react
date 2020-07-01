@@ -1,7 +1,7 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
 import {Route, BrowserRouter as Router, Switch} from 'react-router-dom'
-import App from './components/home/App'
+import App from './components/home/Home'
 import * as serviceWorker from './serviceWorker'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Menu from './components/Menu'
