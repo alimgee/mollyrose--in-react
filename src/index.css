@@ -13,6 +13,7 @@ body{
 }
 .nav-link{
     color: blanchedalmond!important;
+    border-radius: .5rem;
     
 }
 .nav-link:hover{
@@ -61,7 +62,8 @@ h1,h2,h3,h4,h5,h6{
   color: blanchedalmond;
   background-color: #ce4a7e;
   font-weight: bold;
-  border-color: #ce4a7e
+  border-color: #ce4a7e;
+  border-radius: .75rem;
 }
 .btn:hover{
   color: #ce4a7e;
@@ -78,7 +80,7 @@ blockquote{
 .card {
     background-color: #323232;
     margin-bottom: 2rem;
-    border-radius: 1rem;
+    border-radius: .75rem;
     -webkit-box-shadow: -.8rem -.8rem 1rem 0 rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
     box-shadow: -.8rem -.8rem 1rem 0  rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
     border: none;
@@ -96,6 +98,15 @@ blockquote{
 }
 .card-text{
   color: blanchedalmond;
+}
+
+.story-img{
+  max-width: 100%;
+  height: auto;
+  width:90%
+}
+.rounded{
+  border-radius: .75rem!important;
 }
 
 

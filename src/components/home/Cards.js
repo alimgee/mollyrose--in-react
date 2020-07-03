@@ -19,7 +19,7 @@ const CardSection = (props) => {
                     <Col md="4" className="mb-4">
                         <Card>
                             <CardHeader><h3>Featured</h3></CardHeader>
-                            <CardImg variant="top" src={img} />
+                            <CardImg variant="top" src={img} className="img-fluid rounded" />
                             <CardBody>
                                 <CardText>
                                     With supporting text below as a natural lead-in to additional content.</CardText>
@@ -30,7 +30,7 @@ const CardSection = (props) => {
                     <Col md="4" className="mb-4">
                         <Card>
                             <CardHeader><h3>Featured</h3></CardHeader>
-                            <CardImg variant="top" src={img} />
+                            <CardImg variant="top" src={img} className="img-fluid rounded"/>
                             <CardBody>
                                 <CardText>
                                     With supporting text below as a natural lead-in to additional content.</CardText>
@@ -41,7 +41,7 @@ const CardSection = (props) => {
                     <Col md="4" className="mb-4">
                         <Card>
                             <CardHeader><h3>Featured</h3></CardHeader>
-                            <CardImg variant="top" src={img} />
+                            <CardImg variant="top" src={img} className="img-fluid rounded" />
                             <CardBody>
                                 <CardText>
                                     With supporting text below as a natural lead-in to additional content.</CardText>
