@@ -23,7 +23,7 @@ const CardSection = (props) => {
                             <CardBody>
                                 <CardText>
                                     With supporting text below as a natural lead-in to additional content.</CardText>
-                                    <a className="btn" href="/" style={{textAlign: "left"}} role="button">Learn more</a>
+                                <a className="btn" href="/" style={{ textAlign: "left" }} role="button">Learn more</a>
                             </CardBody>
                         </Card>
                     </Col>
@@ -34,7 +34,7 @@ const CardSection = (props) => {
                             <CardBody>
                                 <CardText>
                                     With supporting text below as a natural lead-in to additional content.</CardText>
-                                    <a className="btn" href="/" style={{textAlign: "left"}} role="button">Learn more</a>
+                                <a className="btn" href="/" style={{ textAlign: "left" }} role="button">Learn more</a>
                             </CardBody>
                         </Card>
                     </Col>
@@ -45,12 +45,10 @@ const CardSection = (props) => {
                             <CardBody>
                                 <CardText>
                                     With supporting text below as a natural lead-in to additional content.</CardText>
-                                    <a className="btn" href="/" style={{textAlign: "left"}} role="button">Learn more</a>
+                                <a className="btn" href="/" style={{ textAlign: "left" }} role="button">Learn more</a>
                             </CardBody>
                         </Card>
                     </Col>
-
-
                 </Row>
             </Container>
         </section>
