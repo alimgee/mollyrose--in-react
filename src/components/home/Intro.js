@@ -3,7 +3,7 @@ import { Container, Row, Col, Jumbotron } from 'reactstrap'
 
 const Intro = () => {
     return (
-        <section>
+        <section style={{backgroundColor:"black"}}>
             <Jumbotron>
                 <Container>
                     <h1 className="display-4">Header 1</h1>
