@@ -11,7 +11,7 @@ const Quote = () => {
             <Container>
                 <Row>
                     <Col>
-                    <blockquote><span class="">" Lorem ipsum dolor sit amet consectetur 
+                    <blockquote><span>" Lorem ipsum dolor sit amet consectetur 
                             adipisicing el Fugit nisi beatae repellat recusandae rerum 
                             s dolore ex esse architecto inventore"</span></blockquote> 
                     </Col>
