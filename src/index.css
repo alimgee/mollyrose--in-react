@@ -1,5 +1,5 @@
 @import url('https://fonts.googleapis.com/css2?family=Indie+Flower&family=Lato&display=swap');
-
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Mono:wght@200;400&display=swap');
 body{
     position: relative;
     background-color: blanchedalmond;
@@ -53,6 +53,7 @@ body{
 h1,h2,h3,h4,h5,h6{
   font-family: 'Indie Flower', cursive;
   color: #ce4a7e;
+  font-weight: bold;
 
 }
 .display-4{
@@ -95,19 +96,61 @@ blockquote{
 }
 .card-header{
   color: #ce4a7e;
+  font-family: 'Roboto Mono', monospace;
+}
+.news-header{
+  font-family: 'Roboto Mono', monospace;
+  font-weight: light;
 }
 .card-text{
   color: blanchedalmond;
+  font-family: 'Roboto Mono', monospace;
+  font-size: .8rem;
+  font-weight: light;
 }
 
 .story-img{
   max-width: 100%;
   height: auto;
-  width:90%
+  width:90%;
+  
 }
 .rounded{
   border-radius: .75rem!important;
 }
+
+/* scroll button */
+#myBtn {
+  display: none; /* Hidden by default */
+  position: fixed; /* Fixed/sticky position */
+  bottom: 1.5rem; /* Place the button at the bottom of the page */
+  right: 1.5rem; /* Place the button 30px from the right */
+  z-index: 99; /* Make sure it does not overlap */
+  border: none; /* Remove borders */
+  outline: none; /* Remove outline */
+  background-color:gray; /* Set a background color */
+  opacity: .8;
+  color: white; /* Text color */
+  cursor: pointer; /* Add a mouse pointer on hover */
+  padding: .5rem; /* Some padding */
+  border-radius: .75rem; /* Rounded corners */
+  font-size: 1.4rem; /* Increase font size */
+}
+
+#myBtn:hover {
+  background-color: #555; /* Add a dark-grey background on hover */
+}
+
+html{
+  scroll-behavior: smooth;
+}
+
+/* animate dropdown menu*/
+
+.animate {   
+  transition-timing-function: ease-in-out;   
+}
+
 
 
 /* 
@@ -192,32 +235,6 @@ blockquote{
     width:100%;
   }
     
-}
-
-/* scroll button */
-#myBtn {
-  display: none; /* Hidden by default */
-  position: fixed; /* Fixed/sticky position */
-  bottom: 1.5rem; /* Place the button at the bottom of the page */
-  right: 1.5rem; /* Place the button 30px from the right */
-  z-index: 99; /* Make sure it does not overlap */
-  border: none; /* Remove borders */
-  outline: none; /* Remove outline */
-  background-color:gray; /* Set a background color */
-  opacity: .8;
-  color: white; /* Text color */
-  cursor: pointer; /* Add a mouse pointer on hover */
-  padding: .5rem; /* Some padding */
-  border-radius: .75rem; /* Rounded corners */
-  font-size: 1.4rem; /* Increase font size */
-}
-
-#myBtn:hover {
-  background-color: #555; /* Add a dark-grey background on hover */
-}
-
-html{
-  scroll-behavior: smooth;
 }
 
 

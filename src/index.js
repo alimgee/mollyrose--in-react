@@ -7,6 +7,7 @@ import 'bootstrap/dist/css/bootstrap.min.css'
 import Menu from './components/Menu'
 import Footer from './components/Footer'
 import Story from './components/story/Story'
+import News from './components/news/News'
 import './index.css'
 
   const routing = (
@@ -15,6 +16,7 @@ import './index.css'
     <Switch>
           <Route exact path="/" component={App} />
           <Route path="/story/" component={Story} />
+          <Route path="/news/" component={News} />
           
         </Switch>
       <Footer />

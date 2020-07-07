@@ -1,5 +1,5 @@
 import React from 'react';
-import { Container, Row, Col, Jumbotron } from 'reactstrap'
+import { Container, Jumbotron } from 'reactstrap'
 
 const Intro = () => {
     return (
