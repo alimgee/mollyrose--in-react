@@ -1,30 +1,35 @@
 import React from 'react'
 import ReactDOM from 'react-dom'
-import {Route, BrowserRouter as Router, Switch} from 'react-router-dom'
+import { Route, BrowserRouter as Router, Switch } from 'react-router-dom'
 import App from './components/home/Home'
 import * as serviceWorker from './serviceWorker'
 import 'bootstrap/dist/css/bootstrap.min.css'
 import Menu from './components/Menu'
+import Notfound from './components/Notfound'
 import Footer from './components/Footer'
 import Story from './components/story/Story'
 import News from './components/news/News'
 import './index.css'
+import Cancer from './components/cancer/Cancer'
+import Help from './components/help/Help'
 
 
 
-  const routing = (
-    <Router>
+const routing = (
+  <Router>
     <Menu />
     <Switch>
-          <Route exact path="/" component={App} />
-          <Route path="/story/" component={Story} />
-          <Route path="/news/" component={News} />
-          
-        </Switch>
-      <Footer />
-    </Router>
-  )
-  ReactDOM.render(routing, document.getElementById('root'))
+      <Route exact path="/" component={App} />
+      <Route path="/story/" component={Story} />
+      <Route path="/news/" component={News} />
+      <Route path="/childhoodcancer/" component={Cancer} />
+      <Route path="/helpout/" component={Help} />
+      <Route component={Notfound} />
+    </Switch>
+    <Footer />
+  </Router>
+)
+ReactDOM.render(routing, document.getElementById('root'))
 
 
 

@@ -20,7 +20,7 @@ const Menu = (props) => {
     <div>
       <Navbar light expand="md">
         <NavbarBrand href="/">MollyRose.ie</NavbarBrand>
-        <NavbarText className="d-none d-sm-block">Lets talk about childhood cancer</NavbarText>
+        <NavbarText className="d-none d-lg-block">Lets talk about Childhood Cancer</NavbarText>
         <NavbarToggler onClick={toggle} />
 
         <Collapse isOpen={isOpen} navbar className="animate">
@@ -30,6 +30,12 @@ const Menu = (props) => {
             </NavItem>
             <NavItem>
               <NavLink href="/story/">Mollys Story</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/childhoodcancer/">Cancer</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/helpout/">Helping Out</NavLink>
             </NavItem>
             <NavItem>
               <NavLink href="/news/">News & Events</NavLink>
