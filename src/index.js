@@ -10,6 +10,8 @@ import Story from './components/story/Story'
 import News from './components/news/News'
 import './index.css'
 
+
+
   const routing = (
     <Router>
     <Menu />

@@ -88,6 +88,7 @@ blockquote{
     background-clip: border-box;
     font-size: 1.2rem;
 
+
 }
 .card-img{
     padding-right: .4rem!important;
@@ -110,9 +111,16 @@ blockquote{
 }
 
 .story-img{
-  max-width: 100%;
   height: auto;
   width:90%;
+  background-color: #323232;
+  margin-bottom: 2rem;
+  border-radius: .75rem;
+  -webkit-box-shadow: -.8rem -.8rem 1rem 0 rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
+  box-shadow: -.8rem -.8rem 1rem 0  rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
+  border: none;
+  background-clip: border-box;
+  font-size: 1.2rem;
   
 }
 .rounded{
@@ -150,7 +158,6 @@ html{
 .animate {   
   transition-timing-function: ease-in-out;   
 }
-
 
 
 /* 
@@ -263,10 +270,10 @@ html{
 @media (min-width: 411px) and (max-width: 480px) {
   
   .content{
-      margin-top: 6.5rem!important;
+      margin-top: 7.2rem!important;
   }
   .jumbotron{
-      height: 21rem!important;
+      height: 20rem!important;
   }
   
 }
@@ -278,7 +285,7 @@ html{
 @media (min-width: 375px) and (max-width: 410px) {
   
   .content{
-      margin-top: 5.5rem!important;
+      margin-top: 5.8rem!important;
   }
   .jumbotron{
       height: 20rem!important;
@@ -311,10 +318,10 @@ html{
 @media (min-width: 320px) and (max-width: 359px) {
   
   .content{
-      margin-top: 5.5rem!important;
+      margin-top: 7.8rem!important;
   }
   .jumbotron{
-      height: 20rem!important;
+      height: 22rem!important;
       background-position: center center;
   }
   

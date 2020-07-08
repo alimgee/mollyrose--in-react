@@ -19,7 +19,7 @@ export const Items = () => {
                                 <a href={data.link} target="_blank" rel="noopener noreferrer"  title="Go to news article" style={{ textDecoration: "none" }}>
                                     <CardBody>
                                         <div className="row">
-                                            <div className="small" ><CardText><h6 className="news-header">{data.name} {key} <span className="small muted">(source: {data.provider})</span></h6>
+                                            <div className="small" ><CardText><h6 className="news-header">{data.name} <span className="small muted">(source: {data.provider})</span></h6>
                                                 {data.content}</CardText>
                                                 <div className="small muted ">{data.date}</div>
                                             </div>

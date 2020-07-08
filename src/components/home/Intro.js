@@ -6,11 +6,11 @@ const Intro = () => {
         <section style={{backgroundColor:"black"}}>
             <Jumbotron>
                 <Container>
-                    <h1 className="display-4">Header 1</h1>
+                    <h1 className="display-4">Molly Rose</h1>
                     <div className="content">
-                        <p className="lead">Lorem ipsum dolor sit amet debitis maiores vitae asperiores?
+                        <p className="lead">Driving awareness of childhood cancer
                         </p>
-                        <a className="btn" href="/" style={{textAlign: "left"}} role="button">Learn more</a>
+                        <a className="btn" href="/story/" style={{textAlign: "left"}} role="button">Mollys Story</a>
                     </div>
                 </Container>
             </Jumbotron>
