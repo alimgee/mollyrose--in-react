@@ -8,7 +8,7 @@ const Intro = () => {
                 <Container>
                     <h1 className="display-4">Molly Rose</h1>
                     <div className="content">
-                        <p className="lead"><span className="d-lg-none">"Lets talk about Childhood Cancer" </span>Driving awareness of childhood cancer
+                        <p className="lead">Driving awareness of childhood cancer
                         </p>
                         <a className="btn" href="/story/" style={{textAlign: "left"}} role="button">Mollys Story</a>
                     </div>

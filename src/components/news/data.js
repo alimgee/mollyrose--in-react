@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Irish Cancer Society Colour Dash Family 5k",
+    "content": "Due to the current coronavirus pandemic, Colour Dash as we know and love it can no longer go ahead. Instead we are inviting you and your family to take part in the first virtual Colour Dash Family 5k.......",
+    "link": "https://www.cancer.ie/ways-to-help/fundraise/colour-dash",
+    "date": "5th July 2020",
+    "provider": "Irish Cancer Society"
+  },
+  {
     "name": "Get on your bike for children’s cancer charity",
     "content": "An Irish children’s cancer charity is calling on people to get on their bikes this summer to help ensure that no child in Ireland has to face cancer alone......",
     "link": "https://www.rte.ie/brainstorm/2020/0625/1149549-children-leukaemia/",

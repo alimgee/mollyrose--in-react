@@ -20,6 +20,7 @@ body{
   color: #ce4a7e!important;
   background-color: black;
   font-weight: bolder;
+  font-size: 1.1rem;
 
 }
 .navbar-brand{
@@ -27,7 +28,8 @@ body{
 }
 .navbar-text{
   color: blanchedalmond!important;
-  font-size: larger;
+  font-size: larger!important;
+
 }
 .footer {
     background-color: #ce4a7e;
@@ -56,6 +58,10 @@ h1,h2,h3,h4,h5,h6{
   font-weight: bold;
 
 }
+p{
+  font-family: 'Roboto Mono', monospace;
+  
+}
 .display-4{
   color: blanchedalmond!important;
 }
@@ -70,6 +76,7 @@ h1,h2,h3,h4,h5,h6{
   color: #ce4a7e;
   background-color: black;
   font-weight: bolder;
+  font-size: 1.1rem;
 }
 blockquote{
   color: #ce4a7e;
@@ -79,7 +86,9 @@ blockquote{
     text-align: center;
 }
 .card {
-    background-color: #323232;
+    /*background-color: #323232;*/
+
+    background-color: blanchedalmond;
     margin-bottom: 2rem;
     border-radius: .75rem;
     -webkit-box-shadow: -.8rem -.8rem 1rem 0 rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
@@ -87,28 +96,38 @@ blockquote{
     border: none;
     background-clip: border-box;
     font-size: 1.2rem;
-
-
+}
+.card-body{
+  background-color: blanchedalmond;
+}
+.card-header{
+  border-bottom: none;
+  background-color: blanchedalmond;
+  /*background-color: #323232;*/
 }
 .card-img{
     padding-right: .4rem!important;
     padding-left: .4rem!important;
 
 }
-.card-header{
-  color: #ce4a7e;
-  font-family: 'Roboto Mono', monospace;
-}
 .news-header{
   font-family: 'Roboto Mono', monospace;
   font-weight: light;
 }
 .card-text{
-  color: blanchedalmond;
+  /* color: blanchedalmond;*/
+  color: blue;
+
   font-family: 'Roboto Mono', monospace;
   font-size: .8rem;
   font-weight: light;
 }
+.card-img{
+  width: 90%;
+  margin: 0 auto;
+  
+}
+
 
 .story-img{
   height: auto;
@@ -212,11 +231,12 @@ html{
 @media (min-width: 768px) and (max-width: 1023px) {
   
   .content{
-      margin-top: 8rem;
+      margin-top: 3rem;
   }
   .jumbotron{
       height: 22rem;
-      background-position: center center;
+      background-position: right center;
+      text-align: left;
   }
   .story-img{
     width:100%;
@@ -273,7 +293,7 @@ html{
       margin-top: 7.2rem!important;
   }
   .jumbotron{
-      height: 20rem!important;
+      height: 21rem!important;
   }
   
 }
@@ -302,7 +322,7 @@ html{
 @media (min-width: 360px) and (max-width: 374px) {
   
   .content{
-      margin-top: 5.5rem!important;
+      margin-top: 6rem!important;
   }
   .jumbotron{
       height: 20rem!important;

@@ -5,54 +5,61 @@ import {
   Col,
 } from 'reactstrap';
 
-import img from '../../assets/img/img.png'
+import molly from '../../assets/img/molly2.png'
+import mollycol from '../../assets/img/molly1.png'
 
 const Detail = (props) => {
     return(
         <Container fluid className="mb-4 mt-2">
                 <Row>
-                    <Col md="9" className="order-2 order-md-1 text-center" >
-                    <span style={{color:"black"}}>Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate
-                            Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate
-                            molestias!Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate</span>
+                    <Col md="9" className="text-left" >
+                    <p style={{color:"black"}}>11/11/2015 is a date forever burned into our minds,
+                     the day we heard the 
+                    news no parent ever wants to hear. Our precious Molly, of barely 10 months, 
+                    was diagnosed with a stage 4 cancer. The immediate days blurred into each 
+                    other as we got further details on Mollys condition and begun hearing words 
+                    and medical terms we never knew existed. Treatment kicked off within days as 
+                    we remained in a shocked haze barely coping and clinging on to whatever hope 
+                    was offered before us.</p>
+                    <p style={{color:"black"}}>It was during the early stages of this darkness 
+                    that the supports that would prop us up revealed themselves. We found that 
+                    people, some close to us, some we never knew, were to become the bedrock of 
+                    our coping mechanisms. People offered themselves without question to help us 
+                    in some way. I feel we would have been lost without that support.</p>
                     </Col>
                     <Col md="3" className="order-1 text-center">
-                    <img className="rounded img-fluid story-img" alt="test" src={img}/>
+                    <img className="rounded img-fluid story-img" alt="test" src={molly}/>
                     </Col>                 
                 </Row>
                 <Row>
-                    <Col md="3" className="text-center" >
-                    <img className="rounded img-fluid story-img" alt="test" src={img}/>
+                    <Col md="3" className="text-center order-2" >
+                    <img className="rounded img-fluid story-img" alt="test" src={mollycol}/>
                     </Col>
-                    <Col md="9" className="text-center">
-                    <span style={{color:"black"}}>Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate
-                            Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate
-                            molestias!Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate</span>
+                    <Col md="9 order-md-2" className="text-left">
+                    <p style={{color:"black"}}>It was during the early stages of this darkness 
+                    that the supports that would prop us up revealed themselves. We found that 
+                    people, some close to us, some we never knew, were to become the bedrock of 
+                    our coping mechanisms. People offered themselves without question to help us 
+                    in some way. I feel we would have been lost without that support.</p>
+                    <p style={{color:"black"}}>It was during the early stages of this darkness 
+                    that the supports that would prop us up revealed themselves. We found that 
+                    people, some close to us, some we never knew, were to become the bedrock of 
+                    our coping mechanisms. People offered themselves without question to help us 
+                    in some way. I feel we would have been lost without that support.</p>
                     </Col>                 
                 </Row>
                 <Row>
                     <Col>
-                    <span style={{color:"black"}}>Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate
-                            Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate
-                            molestias!Lorem ipsum dolor sit amet consectetur
-                            adipisicing elit. Necessitatibus debitis quos accusamus dignissimos consectetur placeat, rem
-                            quasi ipsa maiores eos dolor veniam illum dolorum cumque nostrum aliquam sit cupiditate</span>
+                    <p style={{color:"black"}}>It was during the early stages of this darkness 
+                    that the supports that would prop us up revealed themselves. We found that 
+                    people, some close to us, some we never knew, were to become the bedrock of 
+                    our coping mechanisms. People offered themselves without question to help us 
+                    in some way. I feel we would have been lost without that support.</p>
+                    <p style={{color:"black"}}>It was during the early stages of this darkness 
+                    that the supports that would prop us up revealed themselves. We found that 
+                    people, some close to us, some we never knew, were to become the bedrock of 
+                    our coping mechanisms. People offered themselves without question to help us 
+                    in some way. I feel we would have been lost without that support.</p>
                     </Col>
                 </Row>
             </Container>
