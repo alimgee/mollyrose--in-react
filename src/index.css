@@ -59,7 +59,7 @@ h1,h2,h3,h4,h5,h6{
 
 }
 p{
-  font-family: 'Roboto Mono', monospace;
+  font-family: 'Roboto Mono', monospace;  
   
 }
 .display-4{
@@ -86,16 +86,15 @@ blockquote{
     text-align: center;
 }
 .card {
-    /*background-color: #323232;*/
-
-    background-color: blanchedalmond;
+    background-color: blanchedalmond!important;
     margin-bottom: 2rem;
-    border-radius: .75rem;
+    border-radius: .75rem!important;
     -webkit-box-shadow: -.8rem -.8rem 1rem 0 rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
     box-shadow: -.8rem -.8rem 1rem 0  rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
     border: none;
     background-clip: border-box;
     font-size: 1.2rem;
+    padding: 1rem;;
 }
 .card-body{
   background-color: blanchedalmond;
@@ -103,23 +102,19 @@ blockquote{
 .card-header{
   border-bottom: none;
   background-color: blanchedalmond;
-  /*background-color: #323232;*/
 }
 .card-img{
     padding-right: .4rem!important;
     padding-left: .4rem!important;
-
 }
 .news-header{
   font-family: 'Roboto Mono', monospace;
   font-weight: light;
 }
 .card-text{
-  /* color: blanchedalmond;*/
-  color: blue;
-
+  color: #007bff;
   font-family: 'Roboto Mono', monospace;
-  font-size: .8rem;
+  font-size: .75rem;
   font-weight: light;
 }
 .card-img{
@@ -144,6 +139,11 @@ blockquote{
 }
 .rounded{
   border-radius: .75rem!important;
+}
+
+.card-horizontal {
+  display: flex;
+  flex: 1 1 auto;
 }
 
 /* scroll button */
