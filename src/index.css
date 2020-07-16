@@ -58,6 +58,12 @@ h1,h2,h3,h4,h5,h6{
   font-weight: bold;
 
 }
+p::first-letter{
+  text-transform: uppercase; 
+  font-size: 1.5rem;  
+  letter-spacing: .2rem;
+
+}
 p{
   font-family: 'Roboto Mono', monospace;  
   
@@ -122,6 +128,10 @@ blockquote{
   margin: 0 auto;
   
 }
+ul{
+  font-size: 1rem;
+  font-family: 'Roboto Mono', monospace;
+}
 
 
 .story-img{
@@ -178,6 +188,15 @@ html{
   transition-timing-function: ease-in-out;   
 }
 
+div.signs>p::first-letter{
+  text-transform: uppercase; 
+  font-size: 2rem; 
+  font-weight: bold; 
+  letter-spacing: 5px;
+}
+p {
+  font-size: 1rem;
+}
 
 /* 
   ##Device = Desktops

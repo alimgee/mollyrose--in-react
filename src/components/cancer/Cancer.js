@@ -1,12 +1,16 @@
-import React from 'react';
+import React from 'react'
 import Intro from '../home/Intro'
+import Signs from './Signs'
+import Types from './Types'
 
 
-const Cancer = () => {
+const Cancer = (props) => {
     return (
         <main>
             <Intro />
-            <h1>Page under construction</h1>
+            <Signs />
+            <Types />
+            
         </main>)
 }
-export default Cancer;
+export default Cancer
