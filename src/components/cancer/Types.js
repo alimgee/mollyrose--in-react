@@ -12,7 +12,7 @@ const Types = (props) => {
       <Row>
         <Col>
           <div className="text-center mt-2 mb-2"><h2>Types of Childhood Cancer</h2></div>
-          <p>There are many different types of cancers that occur in childhood. Below is detail 
+          <p><span className="first-character">T</span>here are many different types of cancers that occur in childhood. Below is some detail 
             on the cancer that affected Molly
           </p>
           <h3>Neuroblastoma</h3>

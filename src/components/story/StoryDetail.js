@@ -13,7 +13,7 @@ const Detail = (props) => {
         <Container fluid className="mb-4 mt-2">
                 <Row>
                     <Col md="9" className="text-left text-primary" >
-                    <p>11/11/2015 is a date forever burned into our minds,
+                    <p><span className="first-character">T</span>he 11/11/2015 is a date forever burned into our minds,
                      the day we heard the 
                     news no parent ever wants to hear. Our precious Molly, of barely 10 months, 
                     was diagnosed with a stage 4 cancer. The immediate days blurred into each 

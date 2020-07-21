@@ -15,7 +15,7 @@ const Signs = (props) => {
         <Col>
         <div className="text-center mt-2 mb-2"><h2>Signs of Childhood Cancer</h2></div>
           <p>
-            Childhood cancer is relatively rare. However, as a parent,
+          <span className="first-character">C</span>hildhood cancer is relatively rare. However, as a parent,
             it may be helpful to be aware of the symptoms of childhood cancer:</p>
           <Card>
             <CardBody>

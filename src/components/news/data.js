@@ -1,7 +1,14 @@
 export const Articles = [
   {
+    "name": "€94k is raised for children's cancer charity",
+    "content": "Cork parents, whose firstborn son was diagnosed with a rare childhood cancer in 2018, have moved to thank the public for generously supporting a fundraiser.......",
+    "link": "https://www.echolive.ie/corknews/Cork-parents-issue-heartfelt-thanks-after-almost-94k-is-raised-for-childrens-cancer-charity-2bb9792a-96d8-41d3-a60a-7f2b726e0748-ds",
+    "date": "20th July 2020",
+    "provider": "www.echolive.ie"
+  },
+  {
     "name": "Irish Cancer Society Colour Dash Family 5k",
-    "content": "Due to the current coronavirus pandemic, Colour Dash as we know and love it can no longer go ahead. Instead we are inviting you and your family to take part in the first virtual Colour Dash Family 5k.......",
+    "content": "Due to the current coronavirus pandemic, Colour Dash as we know and love it can no longer go ahead. Instead we are inviting you and your family to take part in the first 5k.......",
     "link": "https://www.cancer.ie/ways-to-help/fundraise/colour-dash",
     "date": "5th July 2020",
     "provider": "Irish Cancer Society"
