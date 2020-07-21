@@ -38,7 +38,10 @@ const Menu = (props) => {
               <NavLink href="/helpout/">Helping Out</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/news/">News & Events</NavLink>
+              <NavLink href="/news/">News</NavLink>
+            </NavItem>
+            <NavItem>
+              <NavLink href="/about/">About</NavLink>
             </NavItem>
 
 

@@ -12,6 +12,7 @@ import News from './components/news/News'
 import './index.css'
 import Cancer from './components/cancer/Cancer'
 import Help from './components/help/Help'
+import About from './components/about/About'
 
 
 
@@ -24,6 +25,7 @@ const routing = (
       <Route path="/news/" component={News} />
       <Route path="/childhoodcancer/" component={Cancer} />
       <Route path="/helpout/" component={Help} />
+      <Route path="/about/" component={About} />
       <Route component={Notfound} />
     </Switch>
     <Footer />

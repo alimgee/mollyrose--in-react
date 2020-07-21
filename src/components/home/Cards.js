@@ -39,7 +39,7 @@ const CardSection = (props) => {
                             <CardHeader><h3>How Can I Help?</h3></CardHeader>
                             <CardImg variant="top" src={crumlin} className="img-fluid rounded"/>
                             <CardBody>
-                            <div className="card-text" ><h6 style={{fontFamily:"Roboto Mono"}}>Donating blood, helping out charitys, raising funds </h6></div>
+                            <div className="card-text" ><h6 style={{fontFamily:"Roboto Mono"}}>Donating blood and helping out charitys </h6></div>
                                 <CardText >
                                     There are many organisations and charitys that provide much needed support. From assisting the children themselves to 
                                     supporting families affected by a childhood cancer diagnosis</CardText>
