@@ -61,10 +61,6 @@ h1,h2,h3,h4,h5,h6{
   font-weight: bold;
 
 }
-p::first-letter{
-
-
-}
 .first-character {
   color: #007bff;
   float: left;
@@ -88,7 +84,7 @@ p{
   color: blanchedalmond;
   background-color: #ce4a7e;
   font-weight: bold;
-  border-color: #ce4a7e;
+  border-color: #ce4a7f;
   border-radius: .75rem;
 }
 .btn:hover{
@@ -128,13 +124,11 @@ blockquote{
 }
 .news-header{
   font-family: 'Roboto Mono', monospace;
-  font-weight: light;
 }
 .card-text{
   color: #007bff;
   font-family: 'Roboto Mono', monospace;
   font-size: .75rem;
-  font-weight: light;
 }
 .card-img{
   width: 90%;
@@ -151,7 +145,6 @@ ul{
   font-weight: bold;
   letter-spacing: .1rem;
 }
-
 
 
 .story-img{
@@ -378,8 +371,7 @@ p {
   ##Screen = B/w 360px to 479px
 */
 
-@media (min-width: 320px) and (max-width: 359px) {
-  
+@media (min-width: 320px) and (max-width: 359px) {  
   .content{
       margin-top: 7.8rem!important;
   }
@@ -395,8 +387,7 @@ p {
   ##Screen = B/w 240px to 319px
 */
 
-@media (min-width: 240px) and (max-width: 319px) {
-  
+@media (min-width: 240px) and (max-width: 319px) { 
   .content{
       margin-top: 4rem;
   }

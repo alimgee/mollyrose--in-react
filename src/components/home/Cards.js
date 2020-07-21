@@ -28,7 +28,7 @@ const CardSection = (props) => {
                             <div className="card-text" ><h6 style={{fontFamily:"Roboto Mono"}}>Childhood Cancer causes, signs and symptoms</h6></div>
                                 <CardText>
                                     There are many types of diseases that are classed Childhood Cancer. The causes are manifold and in some cases largley unknown.
-                                    However be assured that Childhood Cancer is very rare.<br/>&nbsp;
+                                    However be assured that Childhood Cancer is very rare.
                                 </CardText>
                                 <a className="btn" href="/childhoodcancer/" style={{ textAlign: "left"  }} role="button">Learn more</a>
                             </CardBody>

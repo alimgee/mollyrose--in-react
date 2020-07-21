@@ -7,7 +7,7 @@ import {
 import Intro from '../home/Intro'
 import { Items } from './Articles'
 
-const News = (props) => {
+const News = () => {
 
     return (
         <main>
