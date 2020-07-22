@@ -13,8 +13,8 @@ const TwitterContainer = () => {
         <a
           className="twitter-timeline"
           data-theme="light"
-          data-tweet-limit="2"
-          data-chrome="noheader nofooter "
+          data-tweet-limit="3"
+          data-chrome="noheader nofooter noborder"
           href="https://twitter.com/mollyrosecancer"
         >
           Tweets by MollyRose

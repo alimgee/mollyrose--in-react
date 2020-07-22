@@ -6,6 +6,7 @@ import {
 } from 'reactstrap';
 import Intro from '../home/Intro'
 import { Items } from './Articles'
+import TwitterContainer from '../about/Twitter'
 
 const News = () => {
 
@@ -19,8 +20,11 @@ const News = () => {
                     </Col>
                 </Row>
                 <Row>
-                    <Col>
+                    <Col md="8">
                         <Items />
+                    </Col>
+                    <Col md="4">
+                        <TwitterContainer />
                     </Col>
                 </Row>
             </Container>
