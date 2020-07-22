@@ -12,7 +12,7 @@ const TwitterContainer = () => {
       <div className="twitter-embed ">
         <a
           className="twitter-timeline"
-          data-theme="light"
+          data-theme="dark"
           data-tweet-limit="3"
           data-chrome="noheader nofooter noborder"
           href="https://twitter.com/mollyrosecancer"

@@ -41,6 +41,7 @@ body{
 }
 .footer-text{
   color: blanchedalmond;
+  font-size: .7rem;
 }
 .jumbotron{
   background-color: #000;
@@ -51,6 +52,7 @@ body{
   background-repeat: no-repeat;
   background-size: contain;
 }
+
 .content{
   margin-top: 7rem;
   color: blanchedalmond!important;
@@ -109,11 +111,12 @@ blockquote{
     border: none;
     background-clip: border-box;
     font-size: 1.2rem;
-    padding: 1rem;;
+    padding: 1rem;
 }
+
 .twitter-embed {
-  /*background-color: blanchedalmond!important;*/
-  background-color: #fff!important;
+  /*background-color: #fff!important;*/
+  background-color: blanchedalmond!important;
   margin-bottom: 2rem;
   border-radius: .75rem!important;
   -webkit-box-shadow: -.8rem -.8rem 1rem 0 rgba(140, 140, 140, 0.1), 10px 10px 15px 0 rgb(40, 40, 40);
@@ -122,6 +125,18 @@ blockquote{
   background-clip: border-box;
   font-size: 1.2rem;
   padding: 1rem;;
+}
+.social{
+  display: inline-block;
+  padding: .5rem;
+  text-align: center;
+}
+.social h2{
+  color: blanchedalmond;
+}
+a>i.fa{
+  color: blanchedalmond;
+  text-decoration: none;
 }
 .card-body{
   background-color: blanchedalmond;
