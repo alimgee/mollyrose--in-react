@@ -1,68 +1,98 @@
 import React from 'react'
 import {
-  Container,
-  Row,
-  Col,
+    Container,
+    Row,
+    Col,
 } from 'reactstrap';
 
 import molly from '../../assets/img/molly2.png'
 import mollycol from '../../assets/img/molly1.png'
 
 const Detail = (props) => {
-    return(
+    return (
         <Container fluid className="mb-4 mt-2">
-                <Row>
-                    <Col md="9" className="text-left text-primary" >
-                    <p><span className="first-character">T</span>he 11/11/2015 is a date forever burned into our minds,
-                     the day we heard the 
-                    news no parent ever wants to hear. Our precious Molly, of barely 10 months, 
-                    was diagnosed with a stage 4 cancer. The immediate days blurred into each 
-                    other as we got further details on Mollys condition and begun hearing words 
-                    and medical terms we never knew existed. Treatment kicked off within days as 
-                    we remained in a shocked haze barely coping and clinging on to whatever hope 
-                    was offered before us.</p>
-                    <p>It was during the early stages of this darkness 
-                    that the supports that would prop us up revealed themselves. We found that 
-                    people, some close to us, some we never knew, were to become the bedrock of 
-                    our coping mechanisms. People offered themselves without question to help us 
-                    in some way. I feel we would have been lost without that support.</p>
-                    </Col>
-                    <Col md="3" className="order-1 text-center">
-                    <img className="rounded img-fluid story-img" alt="test" src={molly}/>
-                    </Col>                 
-                </Row>
-                <Row>
-                    <Col md="3" className="text-center order-2 order-md-1" >
-                    <img className="rounded img-fluid story-img" alt="test" src={mollycol}/>
-                    </Col>
-                    <Col md="9" className="text-left text-primary order-1">
-                    <p>It was during the early stages of this darkness 
-                    that the supports that would prop us up revealed themselves. We found that 
-                    people, some close to us, some we never knew, were to become the bedrock of 
-                    our coping mechanisms. People offered themselves without question to help us 
-                    in some way. I feel we would have been lost without that support.</p>
-                    <p>It was during the early stages of this darkness 
-                    that the supports that would prop us up revealed themselves. We found that 
-                    people, some close to us, some we never knew, were to become the bedrock of 
-                    our coping mechanisms. People offered themselves without question to help us 
-                    in some way. I feel we would have been lost without that support.</p>
-                    </Col>                 
-                </Row>
-                <Row>
-                    <Col md="9" className="text-left text-primary">
-                    <p>It was during the early stages of this darkness 
-                    that the supports that would prop us up revealed themselves. We found that 
-                    people, some close to us, some we never knew, were to become the bedrock of 
-                    our coping mechanisms. People offered themselves without question to help us 
-                    in some way. I feel we would have been lost without that support.</p>
-                    <p>It was during the early stages of this darkness 
-                    that the supports that would prop us up revealed themselves. We found that 
-                    people, some close to us, some we never knew, were to become the bedrock of 
-                    our coping mechanisms. People offered themselves without question to help us 
-                    in some way. I feel we would have been lost without that support.</p>
-                    </Col>
-                </Row>
-            </Container>
+            <Row>
+                <Col md="9" className="text-left text-primary" >
+                    <p><span className="first-character">I</span>n late October 2015, Molly Rose,
+                    who was then just 9 months young, a whole life of possibilities ahead, began to
+                    exhibit bruising and swelling about both her eyes, darkened shadows of what
+                    was about to come into her our lives and, dismantle in a slow drip, her life.
+                    After a couple of worried trips to local doctors we found ourselves in the
+                    local x-ray clinic, oblivious and stressed but unaware of what lay beneath those
+                    bruises. It was a November, tuesday, my only memory of that day lay between the
+                    walls of that clinic, and of a dark malevolence hovering.</p>
+                    <p>On Wednesday 11th, after a trip to James Hospital, we found
+                    ourselves in the place that would soon become our new home
+                    from home, Crumlins Children Hospital. I felt my world heave
+                    earlier that morning after speaking to a apologetic professor in James hospital
+                    who then arranged for us to go to Crumlin. Our worlds collapsed that
+                    afternoon. New words flitted in and out of the tears
+                    - 'mycn amplified' , 'aspiration', MIBG scan' and the worst
+                    of all 'Nueroblastoma stage 4'. A cancer was eating away at
+                    Molly and devouring what should have been her future.
+</p>
+                </Col>
+                <Col md="3" className="order-1 text-center">
+                    <img className="rounded img-fluid story-img" alt="test" src={molly} />
+                </Col>
+            </Row>
+            <Row>
+                <Col md="3" className="text-center order-2 order-md-1" >
+                    <img className="rounded img-fluid story-img" alt="test" src={mollycol} />
+                </Col>
+                <Col md="9" className="text-left text-primary order-1">
+                    <p>We went on to become part of a treatment trial. Scans showed that Molly had
+                    a tumour 'the size of an orange' above her adrenal gland and her bone
+                    marrow and bones were also invaded, most of her young fragile body under
+                    attack. Over the course of months Molly received large doses of various
+                    Chemotherapy treatments. Multiple stays in hospitals, anti sickness pills,
+                    frequent growth hormone injections to repair marrow, unwanted needles and
+                    invasive tubes  were the order of the day. And the hair, nothing prepares
+                    for that level of suffering, and nothing breaks you more when you see your
+                         beloveds hair shedded on a hospital white pillow.</p>
+                    <p>Molly took the treatment like a princess warrior, she was a little hero to all
+                    who were touched by her story, stranger, friend and family alike. The
+                    support we received at that time helped us through, so many good people,
+                    so many well wishers, so many. By the time we got to June, 7 months later,
+                    Mollys tumour was sucessfully removed, scans showed no trace of the dark
+                    cancer, the lurking ghost seemed vanquished. We breathed a cautious sigh of
+                    hope as doctors declared her recovery 'miraculous' and began preparations
+                        for stem cell harvesting, swelling free and bruises just a bad memory.</p>
+                </Col>
+            </Row>
+            <Row>
+                <Col  className="text-left text-primary">
+                    <p>The month of July was almost idyllic as we had no Chemo and Molly was looking
+                    healthy, and got to spend time with her family, and the hair, to see the
+                    hair coming back was the lift that was needed to get through the next
+                         steps.</p>
+                    <p>The 'next steps' began in August. We would be transplanting Mollys earlier
+                    harvested stem cells back into her body. But before that we had to dose
+                    Molly with one more horrific dose of chemo to obliterate her marrow and
+                    reboot her system in the hope of prevent the return of the dark spectre.
+                    The chemo this time was horrendous, the nightmare slipped inception like
+                    to a deeper level. The stem cells were replanted and began doing their work
+                        but Molly was sick, very sick, and would remain so.</p>
+                    <p>On thursday 25th August, Molly was rushed to PICU. She have developed sepsis
+                    after an annovirus infection on top of everything else, her body was
+                    shutting down. Molly, hooked up to breathing machinne, kidney machines
+                    and many other life extending devices was now in a fight for her unlived
+                    life. Our Molly rallied that weekend and by the start of the week blood
+                    infection markers were showing huge improvement. By the time we
+                    approached the end of the week we were prepping to remove the breathing
+                         assistance and to get out of ICU.</p>
+                    <p>Molly suffered a stroke and brain hemorrhage that friday afternoon from which
+                    she would never recover. She was rushed to Temple street hospital for brain
+                    surgery but all hope was done. Molly gave up her fight on the 3rd September
+                    2016 in her daddys arms with her Mummy and Granny, our princess lost the only fight worth having, the fight to live and
+                         love.</p>
+                    <p>Molly loved and delighted in her sister Charlotte, 2 years her senior, but she also loved, 
+                        strawberrys, monkees, James Bays 'Hold Back the River', chocolate, buttery toast, tayto chipsticks, been held by Granny, 
+                        The Lumineers 'Hey Ho', waiting for daddy in the evening and mammys cradle like arms.
+                    </p>
+                </Col>
+            </Row>
+        </Container>
     )
 }
 
