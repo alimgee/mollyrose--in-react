@@ -15,38 +15,27 @@ const About = () => {
                     </Col>
                 </Row>
                 <Row>
+                <Col md="4" className="text-center">
+                        <TwitterContainer />
+                    </Col>
                     <Col md="8" className="text-left">
-                        <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
-                            elit, sed do eiusmod tempor incididunt ut labore et 
-                            dolore magna aliqua. Ut enim ad minim veniam, quis 
-                            nostrud exercitation ullamco laboris nisi ut aliquip 
-                            ex ea commodo consequat. Duis aute irure dolor in 
-                            reprehenderit in voluptate velit esse cillum dolore 
-                            eu fugiat nulla pariatur. Excepteur sint occaecat 
-                            cupidatat non proident, sunt in culpa qui officia 
-                            deserunt mollit anim id est laborum.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
-                            elit, sed do eiusmod tempor incididunt ut labore et 
-                            dolore magna aliqua. Ut enim ad minim veniam, quis 
-                            nostrud exercitation ullamco laboris nisi ut aliquip 
-                            ex ea commodo consequat. Duis aute irure dolor in 
-                            reprehenderit in voluptate velit esse cillum dolore 
-                            eu fugiat nulla pariatur. Excepteur sint occaecat 
-                            cupidatat non proident, sunt in culpa qui officia 
-                            deserunt mollit anim id est laborum.</p>
-                            <p>Lorem ipsum dolor sit amet, consectetur adipiscing 
-                            elit, sed do eiusmod tempor incididunt ut labore et 
-                            dolore magna aliqua. Ut enim ad minim veniam, quis 
-                            nostrud exercitation ullamco laboris nisi ut aliquip 
-                            ex ea commodo consequat. Duis aute irure dolor in 
-                            reprehenderit in voluptate velit esse cillum dolore 
-                            eu fugiat nulla pariatur. Excepteur sint occaecat 
-                            cupidatat non proident, sunt in culpa qui officia 
-                            deserunt mollit anim id est laborum.</p>
+                        <p><span className="first-character">I</span>n 2015 we first walked the halls of St Johns ward for peadiatric cancer and became
+                        part of that small group of families who know what it is to try to deal with a
+                        childhood cancer diagnosis. We will never forget the bravery of the many children
+                        we met on those corridors. We will also remember the health care professionals that
+                        looked after Molly and done thier best to help her beat this insidious horrific disease
+                        </p>
+                        <p>
+                        We created this site with the aim to drive awareness of childhood cancer as before out
+                        journey we were ignorant to the world of peadiatric cancer.
+                        </p>
+                        <p>
+                        This is our way of
+                        giving back a little bit and trying to preserve the memory of our beautiful
+                        much loved daughter. This is Molly Roses legacy.
+                        </p>
                     </Col>
-                    <Col md="4" className="text-center">
-                    <TwitterContainer />
-                    </Col>
+
                 </Row>
             </Container>
         </main>)
