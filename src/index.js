@@ -21,11 +21,11 @@ const routing = (
     <Menu />
     <Switch>
       <Route exact path="/" component={App} />
-      <Route path="/story/" component={Story} />
-      <Route path="/news/" component={News} />
-      <Route path="/childhoodcancer/" component={Cancer} />
-      <Route path="/helpout/" component={Help} />
-      <Route path="/about/" component={About} />
+      <Route exact path="/story/" component={Story} />
+      <Route exact path="/news/" component={News} />
+      <Route exact path="/childhoodcancer/" component={Cancer} />
+      <Route exact path="/helpout/" component={Help} />
+      <Route exact path="/about/" component={About} />
       <Route component={Notfound} />
     </Switch>
     <Footer />
