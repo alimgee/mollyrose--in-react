@@ -15,11 +15,11 @@ const Detail = (props) => {
                 <Col md="9" className="text-left text-primary" >
                     <p><span className="first-character">I</span>n late October 2015, Molly Rose,
                     who was then just 9 months young, a whole life of possibilities ahead, began to
-                    exhibit bruising and swelling about both her eyes, darkened shadows of what
+                    exhibit bruising and swelling around both her eyes, darkened shadows of what
                     was about to come into her our lives and, dismantle in a slow drip, her life.
                     After a couple of worried trips to local doctors we found ourselves in the
-                    local x-ray clinic, oblivious and stressed but unaware of what lay beneath those
-                    bruises. It was a November, tuesday, my only memory of that day lay between the
+                     community x-ray clinic, oblivious and stressed but unaware of what lay beneath those
+                    bruises. It was early November, tuesday, my only memory of that day lay between the
                     walls of that clinic, and of a dark malevolence hovering.</p>
                     <p>On Wednesday 11th, after a trip to James Hospital, we found
                     ourselves in the place that would soon become our new home
@@ -41,7 +41,7 @@ const Detail = (props) => {
                     <img className="rounded img-fluid story-img" alt="test" src={mollycol} />
                 </Col>
                 <Col md="9" className="text-left text-primary order-1">
-                    <p>We went on to become part of a treatment trial. Scans showed that Molly had
+                    <p>We went on to be part of a treatment trial. Scans showed that Molly had
                     a tumour 'the size of an orange' above her adrenal gland and her bone
                     marrow and bones were also invaded, most of her young fragile body under
                     attack. Over the course of months Molly received large doses of various
@@ -57,27 +57,26 @@ const Detail = (props) => {
                     Mollys tumour was sucessfully removed, scans showed no trace of the dark
                     cancer, the lurking ghost seemed vanquished. We breathed a cautious sigh of
                     hope as doctors declared her recovery 'miraculous' and began preparations
-                        for stem cell harvesting, swelling free and bruises just a bad memory.</p>
+                        for stem cell harvesting, swelling free and bruises felt like just a bad memory.</p>
                 </Col>
             </Row>
             <Row>
                 <Col  className="text-left text-primary">
-                    <p>The month of July was almost idyllic as we had no Chemo and Molly was looking
-                    healthy, and got to spend time with her family, and the hair, to see the
-                    hair coming back was the lift that was needed to get through the next
-                         steps.</p>
+                    <p>The month of July was almost idyllic as cancer treatments go, we had no Chemo and Molly was looking
+                    healthy, She got to spend quality time with her family, and the hair, to see the
+                    hair coming back was the lift that was needed to get through the next steps.</p>
                     <p>The 'next steps' began in August. We would be transplanting Mollys earlier
-                    harvested stem cells back into her body. But before that we had to dose
+                    harvested stem cells back into her body. But before that we had to poison
                     Molly with one more horrific dose of chemo to obliterate her marrow and
                     reboot her system in the hope of prevent the return of the dark spectre.
                     The chemo this time was horrendous, the nightmare slipped inception like
                     to a deeper level. The stem cells were replanted and began doing their work
                         but Molly was sick, very sick, and would remain so.</p>
-                    <p>On thursday 25th August, Molly was rushed to PICU. She have developed sepsis
-                    after an annovirus infection on top of everything else, her body was
-                    shutting down. Molly, hooked up to breathing machinne, kidney machines
+                    <p>On thursday 25th August, Molly was rushed to PICU. She had developed sepsis
+                    after an Adenovirus infection on top of everything else, her body was
+                    shutting down. Molly, hooked up to a breathing machine, kidney machine
                     and many other life extending devices was now in a fight for her unlived
-                    life. Our Molly rallied that weekend and by the start of the week blood
+                    future. Our Molly rallied that weekend and by the start of the week blood
                     infection markers were showing huge improvement. By the time we
                     approached the end of the week we were prepping to remove the breathing
                          assistance and to get out of ICU.</p>
