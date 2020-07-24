@@ -47,7 +47,7 @@ body{
   background-color: #000;
   text-align: center;
   color: blanchedalmond!important;
-  height: 62vh!important;
+  height: 22rem!important;
   background-image: url("./assets/img/molly-intro-small.jpg");
   background-repeat: no-repeat;
   background-size: contain;
@@ -252,7 +252,7 @@ p {
       margin-top: 2rem;
   }
   .jumbotron{
-      height: 20rem;
+
       background-position: right;
       text-align: left;
       
@@ -274,7 +274,7 @@ p {
       margin-top: 2rem;
   }
   .jumbotron{
-      height: 20rem;
+
       background-position: right;
       text-align: left;
   }
@@ -297,9 +297,9 @@ p {
       margin-top: 3rem;
   }
   .jumbotron{
-      height: 22rem;
-      background-position: right center;
-      text-align: left;
+    height: 22rem!important;
+    background-position: right center;
+    text-align: left;
   }
   .story-img{
     width:100%;
@@ -317,7 +317,7 @@ p {
       margin-top: 3rem;
   }
   .jumbotron{
-      height: 20rem;
+
       background-position: right center;
       text-align: left;
   }
@@ -327,6 +327,22 @@ p {
     
 }
 
+/* 
+  ##Device = galaxay fold landscape
+  ##Screen = B/w 653
+*/
+
+@media (min-width: 652px) and (max-width: 655px) {
+  
+  .content{
+      margin-top: 5rem!important;
+  }
+  .jumbotron{
+    height: 22rem!important;
+    background-position: center center!important;
+  }
+  
+}
 
 /* 
   ##Device = Low Resolution Tablets, Mobiles (Landscape)
@@ -336,10 +352,10 @@ p {
 @media (min-width: 481px) and (max-width: 767px) {
   
   .content{
-      margin-top: 5rem!important;
+      margin-top: 6rem!important;
   }
   .jumbotron{
-      height: 22rem!important;
+    height: 22rem!important;
       background-position: center center!important;
   }
   
@@ -356,7 +372,7 @@ p {
       margin-top: 6rem!important;
   }
   .jumbotron{
-      height: 21rem!important;
+    height: 22rem!important;
   }
   
 }
@@ -371,7 +387,7 @@ p {
       margin-top: 5.8rem!important;
   }
   .jumbotron{
-      height: 20.5rem!important;
+    height: 21rem!important;
   }
   
 }
@@ -388,7 +404,7 @@ p {
       margin-top: 6rem!important;
   }
   .jumbotron{
-      height: 20.5rem!important;
+    height: 21rem!important;
   }
   
 }
@@ -403,7 +419,6 @@ p {
       margin-top: 5.5rem!important;
   }
   .jumbotron{
-      height: 22rem!important;
       background-position: center center;
   }
   
@@ -416,10 +431,11 @@ p {
 
 @media (min-width: 240px) and (max-width: 319px) { 
   .content{
-      margin-top: 1.8rem;
+      margin-top: 4rem;
+      
   }
   .jumbotron{
-      height: 22rem;
       background-position: center center;
+      height: 26rem!important;
   }
 }
