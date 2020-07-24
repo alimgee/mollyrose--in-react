@@ -353,7 +353,7 @@ p {
 @media (min-width: 411px) and (max-width: 480px) {
   
   .content{
-      margin-top: 7.2rem!important;
+      margin-top: 7rem!important;
   }
   .jumbotron{
       height: 21rem!important;
@@ -400,7 +400,7 @@ p {
 
 @media (min-width: 320px) and (max-width: 359px) {  
   .content{
-      margin-top: 6rem!important;
+      margin-top: 5.5rem!important;
   }
   .jumbotron{
       height: 22rem!important;
