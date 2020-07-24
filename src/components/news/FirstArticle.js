@@ -7,7 +7,7 @@ export  const FirstArticle = () => {
 
         <>
             <div className="card-text" ><h6 style={{fontFamily:"Roboto Mono"}}>{Articles[0].name} </h6></div>
-            <div className="card-text mb-4"><span >{Articles[0].content}</span></div>
+            <div className="card-text mb-3"><span >{Articles[0].content}</span></div>
         </>
     );
 };

@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Ruth Morrissey: farewell to cervical cancer pioneer",
+    "content": "Ruth Morrissey, who campaigned for Cervical Check, was a “beautiful soul” who showed great resilience and strength in her final years, her funeral was told yesterday.......",
+    "link": "https://www.thetimes.co.uk/article/ruth-morrissey-farewell-to-incredibly-courageous-cervical-cancer-pioneer-v2l8fmtr6",
+    "date": "23rd July 2020",
+    "provider": "The Times"
+  },
+  {
     "name": "€94k is raised for children's cancer charity",
     "content": "Cork parents, whose firstborn son was diagnosed with a rare childhood cancer in 2018, have moved to thank the public for generously supporting a fundraiser.......",
     "link": "https://www.echolive.ie/corknews/Cork-parents-issue-heartfelt-thanks-after-almost-94k-is-raised-for-childrens-cancer-charity-2bb9792a-96d8-41d3-a60a-7f2b726e0748-ds",
