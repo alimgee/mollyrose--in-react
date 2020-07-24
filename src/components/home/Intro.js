@@ -10,7 +10,7 @@ const Intro = () => {
                     <div className="content">
                         <p className="lead">Driving awareness of childhood cancer
                         </p>
-                        <a className="btn" href="/story/" style={{textAlign: "left"}} role="button">Mollys Story</a>
+                        <a title="Read about Mollys Story" className="btn" href="/story/" style={{textAlign: "left"}} role="button">Mollys Story</a>
                     </div>
                 </Container>
             </Jumbotron>

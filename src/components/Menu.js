@@ -26,22 +26,22 @@ const Menu = (props) => {
         <Collapse isOpen={isOpen} navbar className="animate">
           <Nav className="ml-auto" navbar>
             <NavItem>
-              <NavLink href="/">Home</NavLink>
+              <NavLink href="/" title="Go to landing page of site">Home</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/story/">Mollys Story</NavLink>
+              <NavLink href="/story/" title="Find out more about Molly Rose">Mollys Story</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/childhoodcancer/">Cancer</NavLink>
+              <NavLink href="/childhoodcancer/" title="Find out more information about Childhood Cancer">Cancer</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/helpout/">Helping Out</NavLink>
+              <NavLink href="/helpout/" title="Ways you can help out">Helping Out</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/news/">News</NavLink>
+              <NavLink href="/news/" title="Find out current news or events relating to childhood cancer">News</NavLink>
             </NavItem>
             <NavItem>
-              <NavLink href="/about/">About</NavLink>
+              <NavLink href="/about/" title="Some more information about us">About</NavLink>
             </NavItem>
 
 

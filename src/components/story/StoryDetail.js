@@ -33,12 +33,12 @@ const Detail = (props) => {
 </p>
                 </Col>
                 <Col md="3" className="order-1 text-center">
-                    <img className="rounded img-fluid story-img" alt="test" src={molly} />
+                    <img alt="Molly Rose before cancer" className="rounded img-fluid story-img"  src={molly} />
                 </Col>
             </Row>
             <Row>
                 <Col md="3" className="text-center order-2 order-md-1" >
-                    <img className="rounded img-fluid story-img" alt="test" src={mollycol} />
+                    <img alt="Molly Rose after tumour removal" className="rounded img-fluid story-img" src={mollycol} />
                 </Col>
                 <Col md="9" className="text-left text-primary order-1">
                     <p>We went on to be part of a treatment trial. Scans showed that Molly had
