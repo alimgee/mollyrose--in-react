@@ -20,12 +20,12 @@ const Detail = (props) => {
                     After a couple of worried trips to local doctors we found ourselves in the
                      community x-ray clinic, oblivious and stressed but unaware of what lay beneath those
                     bruises. It was early November, tuesday, my only memory of that day lay between the
-                    walls of that clinic, and of a dark malevolence hovering.</p>
+                    sterile walls of that clinic and, of a dark malevolence hovering.</p>
                     <p>On Wednesday 11th, after a trip to James Hospital, we found
                     ourselves in the place that would soon become our new home
                     from home, Crumlins Children Hospital. I felt my world heave
                     earlier that morning after speaking to a apologetic professor in James hospital
-                    who then arranged for us to go to Crumlin. Our worlds collapsed that
+                    who held on to a dark secret and then arranged for us to go to Crumlin with the parting words 'You are in for a tough time'. Our worlds collapsed that
                     afternoon. New words flitted in and out of the tears
                     - 'mycn amplified' , 'aspiration', MIBG scan' and the worst
                     of all 'Nueroblastoma stage 4'. A cancer was eating away at
@@ -44,10 +44,10 @@ const Detail = (props) => {
                     <p>We went on to be part of a treatment trial. Scans showed that Molly had
                     a tumour 'the size of an orange' above her adrenal gland and her bone
                     marrow and bones were also invaded, most of her young fragile body under
-                    attack. Over the course of months Molly received large doses of various
+                    attack. Over the course of months Molly received many large doses of various
                     Chemotherapy treatments. Multiple stays in hospitals, anti sickness pills,
                     frequent growth hormone injections to repair marrow, unwanted needles and
-                    invasive tubes  were the order of the day. And the hair, nothing prepares
+                    invasive nasal gastric tubes were the order of the day. And the hair, nothing prepares
                     for that level of suffering, and nothing breaks you more when you see your
                          beloveds hair shedded on a hospital white pillow.</p>
                     <p>Molly took the treatment like a princess warrior, she was a little hero to all
@@ -57,7 +57,7 @@ const Detail = (props) => {
                     Mollys tumour was sucessfully removed, scans showed no trace of the dark
                     cancer, the lurking ghost seemed vanquished. We breathed a cautious sigh of
                     hope as doctors declared her recovery 'miraculous' and began preparations
-                        for stem cell harvesting, swelling free and bruises felt like just a bad memory.</p>
+                        for stem cell harvesting, we were swelling free and the bruises felt like just a bad memory.</p>
                 </Col>
             </Row>
             <Row>
@@ -68,7 +68,7 @@ const Detail = (props) => {
                     <p>The 'next steps' began in August. We would be transplanting Mollys earlier
                     harvested stem cells back into her body. But before that we had to poison
                     Molly with one more horrific dose of chemo to obliterate her marrow and
-                    reboot her system in the hope of prevent the return of the dark spectre.
+                    reboot her system in the hope of preventing the return of the dark spectre.
                     The chemo this time was horrendous, the nightmare slipped inception like
                     to a deeper level. The stem cells were replanted and began doing their work
                         but Molly was sick, very sick, and would remain so.</p>
