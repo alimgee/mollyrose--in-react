@@ -400,10 +400,10 @@ p {
 
 @media (min-width: 320px) and (max-width: 359px) {  
   .content{
-      margin-top: 7.8rem!important;
+      margin-top: 6rem!important;
   }
   .jumbotron{
-      height: 21rem!important;
+      height: 22rem!important;
       background-position: center center;
   }
   
@@ -416,7 +416,7 @@ p {
 
 @media (min-width: 240px) and (max-width: 319px) { 
   .content{
-      margin-top: 4rem;
+      margin-top: 1.5rem;
   }
   .jumbotron{
       height: 22rem;
