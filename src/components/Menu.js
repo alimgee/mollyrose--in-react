@@ -8,7 +8,8 @@ import {
   NavItem,
   NavLink,
   NavbarText
-} from 'reactstrap';
+} from 'reactstrap'
+
 
 
 const Menu = (props) => {

@@ -6,11 +6,17 @@ import {
     Col,
 } from 'reactstrap';
 import { Items } from './Organisations'
+import { Helmet } from 'react-helmet'
 
 const Help = (props) => {
 
     return (
         <main>
+            <Helmet>
+                <title>Helping Out - mollyrose.ie</title>
+                <meta name="description" content="Helping familys affected by Childhood Cancer. Blood donation and funding" />
+
+            </Helmet>
             <Intro />
             <Container>
                 <Row>

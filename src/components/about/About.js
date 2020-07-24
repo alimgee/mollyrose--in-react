@@ -2,11 +2,17 @@ import React from 'react';
 import { Container, Row, Col } from 'reactstrap'
 import Intro from '../home/Intro'
 import TwitterContainer from './Twitter'
+import { Helmet } from 'react-helmet'
 
 
 const About = () => {
     return (
         <main>
+            <Helmet>
+                <title>About Us - mollyrose.ie</title>
+                <meta name="description" content="Information about who we are and who Molly Rose was and reason for a childhood cancer site like mollyrose.ie" />
+
+            </Helmet>
             <Intro />
             <Container className="mb-2">
                 <Row>
@@ -15,7 +21,7 @@ const About = () => {
                     </Col>
                 </Row>
                 <Row>
-                <Col md="4" className="text-center">
+                    <Col md="4" className="text-center">
                         <TwitterContainer />
                     </Col>
                     <Col md="8" className="text-left">
@@ -26,13 +32,13 @@ const About = () => {
                         looked after Molly and done thier best to help her beat this insidious horrific disease
                         </p>
                         <p>
-                        We created this site with the aim to drive awareness of childhood cancer as before out
-                        journey we were ignorant to the world of peadiatric cancer.
+                            We created this site with the aim to drive awareness of childhood cancer as before out
+                            journey we were ignorant to the world of peadiatric cancer.
                         </p>
                         <p>
-                        This is our way of
-                        giving back a little bit and trying to preserve the memory of our beautiful
-                        much loved daughter. This is Molly Roses legacy.
+                            This is our way of
+                            giving back a little bit and trying to preserve the memory of our beautiful
+                            much loved daughter. This is Molly Roses legacy.
                         </p>
                     </Col>
 

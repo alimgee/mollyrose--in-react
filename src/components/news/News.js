@@ -7,11 +7,17 @@ import {
 import Intro from '../home/Intro'
 import { Items } from './Articles'
 import TwitterContainer from '../about/Twitter'
+import { Helmet} from 'react-helmet'
 
 const News = () => {
 
     return (
         <main>
+            <Helmet>
+                <title>News and Events - mollyrose.ie</title>
+                <meta name="description" content="News and events regarding Childhood Cancer" />
+
+            </Helmet>
             <Intro />
             <Container>
                 <Row>
