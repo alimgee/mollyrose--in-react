@@ -1,4 +1,4 @@
-[![Netlify Status](https://api.netlify.com/api/v1/badges/f3884f0a-519e-485d-ad31-7410655c1eae/deploy-status)]
+![Netlify Status](https://api.netlify.com/api/v1/badges/f3884f0a-519e-485d-ad31-7410655c1eae/deploy-status)
 
 
 This is the source code for my childhood cancer advocacy site www.mollyrose.ie.
@@ -14,7 +14,7 @@ This is the source code for my childhood cancer advocacy site www.mollyrose.ie.
   
 
 ### Build and deployment
-The site is built using React and utilizes a serverless deployment service (Netlify).
+The site is built using React and utilizes a serverless auto deployment service (Netlify).
 
 #### Disclaimer
 The content of this website is intended to inform. but does not give medical advice. Please see your doctor if you have concerns.
