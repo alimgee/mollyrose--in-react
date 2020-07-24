@@ -47,7 +47,7 @@ body{
   background-color: #000;
   text-align: center;
   color: blanchedalmond!important;
-  height: 60vh!important;
+  height: 62vh!important;
   background-image: url("./assets/img/molly-intro-small.jpg");
   background-repeat: no-repeat;
   background-size: contain;
@@ -353,7 +353,7 @@ p {
 @media (min-width: 411px) and (max-width: 480px) {
   
   .content{
-      margin-top: 7rem!important;
+      margin-top: 6rem!important;
   }
   .jumbotron{
       height: 21rem!important;
@@ -416,7 +416,7 @@ p {
 
 @media (min-width: 240px) and (max-width: 319px) { 
   .content{
-      margin-top: 1.5rem;
+      margin-top: 1.8rem;
   }
   .jumbotron{
       height: 22rem;
