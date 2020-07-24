@@ -352,11 +352,11 @@ p {
 @media (min-width: 481px) and (max-width: 767px) {
   
   .content{
-      margin-top: 6rem!important;
+      margin-top: 5rem!important;
   }
   .jumbotron{
     height: 22rem!important;
-      background-position: center center!important;
+    background-position: center center!important;
   }
   
 }
