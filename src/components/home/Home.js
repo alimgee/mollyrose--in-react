@@ -11,6 +11,7 @@ const App = () => {
                 <title>Home - mollyrose.ie</title>
                 <meta name="description" content="Driving awareness of Childhood Cancer and Telling Molly Roses story" />
 
+
             </Helmet>
       <Intro />
       <Quote />
