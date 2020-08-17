@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "September is Childhood Cancer Awareness Month ",
+    "content": "Sadly, every week in the UK, two families are told that their child has neuroblastoma, a rare and life-threatening cancer. Lets work together to drive awareness of childhood cancer........",
+    "link": "https://www.neuroblastoma.org.uk/childhood-cancer-awareness-month?gclid=CjwKCAjw1ej5BRBhEiwAfHyh1GjOgykHqHVLMbBgItn4R3RsEPbWCfATT1dFhec5GjM9-JW_KLpnchoCM0sQAvD_BwE",
+    "date": "17th August 2020",
+    "provider": "neuroblastoma.org.uk"
+  },
+  {
     "name": "Share A Dream founder Shay Kinsella will be remembered ",
     "content": "Share A Dream Foundation founder Shay Kinsella was remembered at his funeral mass as a “dream maker” who helped thousands of vulnerable children........",
     "link": "https://www.irishmirror.ie/news/irish-news/shay-kinsella-share-a-dream-22437392",
