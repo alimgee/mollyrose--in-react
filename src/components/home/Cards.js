@@ -25,7 +25,7 @@ const CardSection = (props) => {
                             <CardHeader><h3>Tell me more</h3></CardHeader>
                             <CardImg variant="top" alt="balloons floating into the sky" src={ballons} className="card-img img-fluid rounded" />
                             <CardBody>
-                            <div className="card-text" ><h6 style={{fontFamily:"Roboto Mono"}}>Childhood Cancer causes, signs and symptoms</h6></div>
+                            <div className="card-text" ><h4 style={{fontFamily:"Roboto Mono"}}>Childhood Cancer causes, signs and symptoms</h4></div>
                                 <CardText>
                                     There are many types of diseases that are classed Childhood Cancer. The causes are manifold and in some cases largley unknown.
                                     However be assured that Childhood Cancer is very rare.
@@ -39,7 +39,7 @@ const CardSection = (props) => {
                             <CardHeader><h3>How Can I Help?</h3></CardHeader>
                             <CardImg variant="top" alt="Crumlin Childrens Hospital" src={crumlin} className="img-fluid rounded"/>
                             <CardBody>
-                            <div className="card-text" ><h6 style={{fontFamily:"Roboto Mono"}}>Donating blood and helping out charitys </h6></div>
+                            <div className="card-text" ><h4 style={{fontFamily:"Roboto Mono"}}>Donating blood and helping out charitys </h4></div>
                                 <CardText >
                                     There are many organisations and charitys that provide much needed support. From assisting the children themselves to 
                                     supporting families affected by a childhood cancer diagnosis</CardText>
