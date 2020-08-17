@@ -21,7 +21,7 @@ const Help = (props) => {
             <Container>
                 <Row>
                     <Col>
-                        <h1>How you Can Help </h1>
+                        <h2>How you Can Help </h2>
                         <p className="text-primary"><span className="first-character">T</span>here are many charities and organistions that we have encountered during our time in treatment
                           and the subsequent aftermath of loss. Some are very close to our hearts. 
                         </p>

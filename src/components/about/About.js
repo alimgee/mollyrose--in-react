@@ -17,7 +17,7 @@ const About = () => {
             <Container className="mb-2">
                 <Row>
                     <Col className="text-center">
-                        <h1>About Us</h1>
+                        <h2>About Us</h2>
                     </Col>
                 </Row>
                 <Row>

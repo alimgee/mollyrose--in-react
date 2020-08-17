@@ -241,6 +241,9 @@ div.signs>p::first-letter{
 p {
   font-size: 1rem;
 }
+.news-header{
+  font-size: 1rem;
+}
 
 /* 
   ##Device = Desktops

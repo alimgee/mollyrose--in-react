@@ -16,7 +16,7 @@ export const Items = () => {
                         {
                             <Card>
                                 <a href={data.link} style={{textDecoration:"none"}}>
-                                <h6 className="news-header">{data.name}</h6>
+                                <h3 className="news-header">{data.name}</h3>
                                 <div className="card-horizontal">
                                     <div class="img-square-wrapper">
                                         <img className="" style={{ width: "3rem", padding:".15rem" }} src={data.logo} alt="Card" />

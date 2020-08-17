@@ -22,10 +22,10 @@ const CardSection = (props) => {
                 <Row>
                     <Col lg="4" className="mb-4">
                         <Card>
-                            <CardHeader><h3>Tell me more</h3></CardHeader>
+                            <CardHeader><h2>Tell me more</h2></CardHeader>
                             <CardImg variant="top" alt="balloons floating into the sky" src={ballons} className="card-img img-fluid rounded" />
                             <CardBody>
-                            <div className="card-text" ><h4 style={{fontFamily:"Roboto Mono"}}>Childhood Cancer causes, signs and symptoms</h4></div>
+                            <div className="card-text" ><h3 className="news-header" style={{fontFamily:"Roboto Mono"}}>Childhood Cancer causes, signs and symptoms</h3></div>
                                 <CardText>
                                     There are many types of diseases that are classed Childhood Cancer. The causes are manifold and in some cases largley unknown.
                                     However be assured that Childhood Cancer is very rare.
@@ -36,10 +36,10 @@ const CardSection = (props) => {
                     </Col>
                     <Col lg="4" className="mb-4">
                         <Card>
-                            <CardHeader><h3>How Can I Help?</h3></CardHeader>
+                            <CardHeader><h2>How Can I Help?</h2></CardHeader>
                             <CardImg variant="top" alt="Crumlin Childrens Hospital" src={crumlin} className="img-fluid rounded"/>
                             <CardBody>
-                            <div className="card-text" ><h4 style={{fontFamily:"Roboto Mono"}}>Donating blood and helping out charitys </h4></div>
+                            <div className="card-text" ><h3 className="news-header" style={{fontFamily:"Roboto Mono"}}>Donating blood and helping out charitys </h3></div>
                                 <CardText >
                                     There are many organisations and charitys that provide much needed support. From assisting the children themselves to 
                                     supporting families affected by a childhood cancer diagnosis</CardText>
@@ -49,7 +49,7 @@ const CardSection = (props) => {
                     </Col>
                     <Col lg="4" className="mb-4">
                         <Card>
-                            <CardHeader><h3>News & Events</h3></CardHeader>
+                            <CardHeader><h2>News & Events</h2></CardHeader>
                             <CardImg variant="top" alt="Colourful chalk pieces" src={events} className="img-fluid rounded" />
                             <CardBody>
                             <FirstArticle/>

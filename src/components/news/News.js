@@ -22,7 +22,7 @@ const News = () => {
             <Container>
                 <Row>
                     <Col>
-                        <h1>News & Events </h1>
+                        <h2>News & Events </h2>
                     </Col>
                 </Row>
                 <Row>

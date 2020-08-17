@@ -16,7 +16,7 @@ const Story = () => {
             <Container className="mb-2">
                 <Row>
                     <Col className="text-center">
-                    <h1>Mollys Story </h1>
+                    <h2>Mollys Story </h2>
                     </Col>
                 </Row>
             </Container>
