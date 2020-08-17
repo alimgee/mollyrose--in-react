@@ -30,7 +30,7 @@ const CardSection = (props) => {
                                     There are many types of diseases that are classed Childhood Cancer. The causes are manifold and in some cases largley unknown.
                                     However be assured that Childhood Cancer is very rare.
                                 </CardText>
-                                <a title="Find out more information about Childhood Cancer" className="btn" href="/childhoodcancer/" style={{ textAlign: "left"  }} role="button">Learn more</a>
+                                <a title="Find out more information about Childhood Cancer" className="btn" href="/childhoodcancer/" style={{ textAlign: "left"  }} role="button">Childhood Cancer</a>
                             </CardBody>
                         </Card>
                     </Col>
@@ -43,7 +43,7 @@ const CardSection = (props) => {
                                 <CardText >
                                     There are many organisations and charitys that provide much needed support. From assisting the children themselves to 
                                     supporting families affected by a childhood cancer diagnosis</CardText>
-                                <a title="Find out the many ways to help" className="btn" href="/helpout/" style={{ textAlign: "left" }} role="button">Learn more</a>
+                                <a title="Find out the many ways to help" className="btn" href="/helpout/" style={{ textAlign: "left" }} role="button">Helping Out</a>
                             </CardBody>
                         </Card>
                     </Col>
