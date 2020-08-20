@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Initiative created to protect the fertility of children",
+    "content": "Every year in Ireland, more than 200 children are diagnosed with cancer, and the necessary treatment they are subscribed can often end up damaging their fertility........",
+    "link": "https://www.herfamily.ie/wellness/new-initiative-created-protect-future-fertility-children-young-people-treated-cancer-379633",
+    "date": "20th August 2020",
+    "provider": "herfamily.ie"
+  },
+  {
     "name": "September is Childhood Cancer Awareness Month ",
     "content": "Sadly, every week in the UK, two families are told that their child has neuroblastoma, a rare and life-threatening cancer. Lets work together to drive awareness of childhood cancer........",
     "link": "https://www.neuroblastoma.org.uk/childhood-cancer-awareness-month?gclid=CjwKCAjw1ej5BRBhEiwAfHyh1GjOgykHqHVLMbBgItn4R3RsEPbWCfATT1dFhec5GjM9-JW_KLpnchoCM0sQAvD_BwE",
