@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Family looking for help to save their son from cancer",
+    "content": "Not all superheroes wear capes. This is especially true in the case of Auryn Phelan, a six-year-old boy from Dublin who has been through what no child should ever have to go through.........",
+    "link": "https://www.her.ie/news/family-looking-help-save-superhero-son-cancer-508945",
+    "date": "23rd August 2020",
+    "provider": "herfamily.ie"
+  },
+  {
     "name": "Initiative created to protect the fertility of children",
     "content": "Every year in Ireland, more than 200 children are diagnosed with cancer, and the necessary treatment they are subscribed can often end up damaging their fertility........",
     "link": "https://www.herfamily.ie/wellness/new-initiative-created-protect-future-fertility-children-young-people-treated-cancer-379633",
