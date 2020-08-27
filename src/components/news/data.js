@@ -7,11 +7,11 @@ export const Articles = [
     "provider": "The Herald"
   },
   {
-    "name": "Family looking for help to save their son from cancer",
-    "content": "Not all superheroes wear capes. This is especially true in the case of Auryn Phelan, a six-year-old boy from Dublin who has been through what no child should ever have to go through.........",
-    "link": "https://www.her.ie/news/family-looking-help-save-superhero-son-cancer-508945",
-    "date": "23rd August 2020",
-    "provider": "herfamily.ie"
+    "name": "Evidence for hypoxia increasing the tempo of evolution in glioblastoma",
+    "content": "Our results suggest that hypoxia could be a crucible that effectively warps evolutionary velocity, making key mutations more likely. ...........",
+    "link": "https://www.nature.com/articles/s41416-020-1021-5",
+    "date": "27th August 2020",
+    "provider": "nature.com (BJC)"
   },
   {
     "name": "Initiative created to protect the fertility of children",
