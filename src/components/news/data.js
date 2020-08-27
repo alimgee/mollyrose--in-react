@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Family plant cherry tree in memory of heroic Robyn",
+    "content": "A cherry tree has been planted in memory of a Dublin teenager who battled a rare cancer for most of her life. Robyn Smyth, who suffered from neuroblastoma, captured the hearts of the nation...........",
+    "link": "https://www.herald.ie/news/family-plant-cherry-tree-in-memory-of-heroic-robyn-39471916.html",
+    "date": "24th August 2020",
+    "provider": "The Herald"
+  },
+  {
     "name": "Family looking for help to save their son from cancer",
     "content": "Not all superheroes wear capes. This is especially true in the case of Auryn Phelan, a six-year-old boy from Dublin who has been through what no child should ever have to go through.........",
     "link": "https://www.her.ie/news/family-looking-help-save-superhero-son-cancer-508945",
