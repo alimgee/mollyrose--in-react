@@ -86,7 +86,7 @@ const Detail = (props) => {
                     2016 in her daddys arms with her Mummy and Granny, our princess lost the only fight worth having, the fight to live and
                          love.</p>
                     <p>Molly loved and delighted in her sister Charlotte, 2 years her senior, but she also loved, 
-                        strawberrys, monkees, James Bays 'Hold Back the River', chocolate, buttery toast, tayto chipsticks, been held by Granny, 
+                        strawberrys, monkeys, James Bays 'Hold Back the River', chocolate, buttery toast, tayto chipsticks, been held by Granny, 
                         The Lumineers 'Hey Ho', waiting for daddy in the evening and mammys cradle like arms.
                     </p>
                 </Col>
