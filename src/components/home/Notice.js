@@ -20,10 +20,10 @@ const NoticeSection = (props) => {
                             <CardBody>
                                 <CardText>
                                 <h2>Head Shave Event!!!</h2>
-                                    The 3rd of September will be Molly Roses 4th anniversary, so in memory
-                                    of our darling hero and to raise funds for Aoibheans Pink Tie, I will be participating
-                                    in the shaving of my always perfect locks.  If you wish to contribute you can do so via the
-                                    idonate link below.
+                                    We had our Head Shave event on the 3rd of September, Mollys 4th anniversary, in 
+                                    order to raise funds for am amzing charity 'Aoibheanns Pink Tie'. If you wish
+                                    to donate to a fantastic cause please do so at the link below. You will also see
+                                    me shorn of my beautiful mane.
                                 </CardText>
                                 <a title="Donate to Head Shave event" className="btn" href="https://www.idonate.ie/AlanMcGee" style={{ textAlign: "left"  }} role="button">Donate Now!</a>
                             </CardBody>
