@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Sophie (5) lit up a room and was a little inspiration",
+    "content": "Sophie Walsh, who left this world on Tuesday (18th) aged five, was a ray of sunshine who brightened up the lives of everyone.........",
+    "link": "https://www.independent.ie/regionals/newrossstandard/sophie-5-lit-up-a-room-and-was-a-little-inspiration-39474814.html",
+    "date": "29 August 2020",
+    "provider": "Independent.ie"
+  },
+  {
     "name": "Sheridan Smith's tragic childhood trauma after older brother died from cancer",
     "content": "Sheridan Smith grew teary eyed as she detailed her brother's battle with cancer on her new documentary..........",
     "link": "https://www.irishmirror.ie/tv/sheridan-smiths-tragic-childhood-trauma-22614248",
