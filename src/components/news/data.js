@@ -1,4 +1,11 @@
 export const Articles = [
+   {
+    "name": "Irish Cancer Society - Marathon in a month",
+    "content": "The marathon EVERYONE can complete! You can walk, run or jog it, at your own speed and in your own time, but the main thing is you CAN do it, you CAN complete a marathon!.........",
+    "link": "https://marathoninamonth.cancer.ie/",
+    "date": "11th September 2020",
+    "provider": "Irish Cancer Society"
+  },
   {
     "name": "Sophie (5) lit up a room and was a little inspiration",
     "content": "Sophie Walsh, who left this world on Tuesday (18th) aged five, was a ray of sunshine who brightened up the lives of everyone.........",
