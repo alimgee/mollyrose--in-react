@@ -1,4 +1,11 @@
 export const Articles = [
+  {
+    "name": "Child cancer room opened at Lourdes",
+    "content": "Thanks to the joint efforts of Drogheda Rotary Club and The Childhood Cancer Foundation, the first little patients are now using the dedicated paediatric oncology room.........",
+    "link": "https://www.independent.ie/regionals/droghedaindependent/news/child-cancer-room-opened-at-lourdes-39510384.html",
+    "date": "12th September 2020",
+    "provider": "Independent.ie"
+  },
    {
     "name": "Irish Cancer Society - Marathon in a month",
     "content": "The marathon EVERYONE can complete! You can walk, run or jog it, at your own speed and in your own time, but the main thing is you CAN do it, you CAN complete a marathon!.........",
