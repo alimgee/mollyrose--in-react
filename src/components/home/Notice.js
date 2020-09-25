@@ -21,7 +21,7 @@ const NoticeSection = (props) => {
                                 <CardText>
                                 <h2>Head Shave Event!!!</h2>
                                     We had our Head Shave event on the 3rd of September, Mollys 4th anniversary, in 
-                                    order to raise funds for am amzing charity 'Aoibheanns Pink Tie'. If you wish
+                                    order to raise funds for an amazing charity 'Aoibheanns Pink Tie'. If you wish
                                     to donate to a fantastic cause please do so at the link below. You will also see
                                     me shorn of my beautiful mane.
                                 </CardText>
