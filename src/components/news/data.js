@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Suffolk boy with rare cancer ready for first day at school",
+    "content": "A boy who doctors feared would not survive when he was diagnosed with a rare childhood cancer aged four months is due to start school..........",
+    "link": "https://www.bbc.com/news/uk-england-suffolk-54239800",
+    "date": "21st September 2020",
+    "provider": "BBC news"
+  },
+  {
     "name": "Child cancer room opened at Lourdes",
     "content": "Thanks to the joint efforts of Drogheda Rotary Club and The Childhood Cancer Foundation, the first little patients are now using the dedicated paediatric oncology room.........",
     "link": "https://www.independent.ie/regionals/droghedaindependent/news/child-cancer-room-opened-at-lourdes-39510384.html",
