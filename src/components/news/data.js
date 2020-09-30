@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Trinity cancer research discovery leads to clinical",
+    "content": "A discovery by Trinity College researchers in a form of cancer common in children, has led to the announcement that C4 Therapeutics plan to begin clinical trials in 2021.........",
+    "link": "https://www.eurekalert.org/pub_releases/2020-09/tcd-tcr092820.php",
+    "date": "28th September 2020",
+    "provider": "eureka"
+  },
+  {
     "name": "Suffolk boy with rare cancer ready for first day at school",
     "content": "A boy who doctors feared would not survive when he was diagnosed with a rare childhood cancer aged four months is due to start school..........",
     "link": "https://www.bbc.com/news/uk-england-suffolk-54239800",
