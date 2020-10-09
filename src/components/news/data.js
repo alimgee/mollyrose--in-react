@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Parents who lost son to cancer donate fleet of mini garda cars",
+    "content": "A couple who lost one of their twin boys to cancer shortly before he turned two have channelled their grief into fundraising for a fleet of toy garda cars.........",
+    "link": "https://www.irishexaminer.com/news/munster/arid-40058495.html",
+    "date": "2nd Oct 2020",
+    "provider": "Irish Examiner"
+  },
+  {
     "name": "Trinity cancer research discovery leads to clinical",
     "content": "A discovery by Trinity College researchers in a form of cancer common in children, has led to the announcement that C4 Therapeutics plan to begin clinical trials in 2021.........",
     "link": "https://www.eurekalert.org/pub_releases/2020-09/tcd-tcr092820.php",
