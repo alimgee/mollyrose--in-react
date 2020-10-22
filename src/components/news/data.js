@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Ryan Tubridy left moved by story of fund raising for child cancer charity",
+    "content": "The Dubliner was clearly touched by the tale of Amelia, Tessa, Emma-Jane and Megan, four eight-year-olds who set out on a readathon to raise money for the Gavin Glynn Foundation.........",
+    "link": "https://www.irishmirror.ie/showbiz/irish-showbiz/ryan-tubridy-left-moved-story-22888327",
+    "date": " 22 Oct 2020",
+    "provider": "Irish Mirror"
+  },
+  {
     "name": "Parents who lost son to cancer donate fleet of mini garda cars",
     "content": "A couple who lost one of their twin boys to cancer shortly before he turned two have channelled their grief into fundraising for a fleet of toy garda cars.........",
     "link": "https://www.irishexaminer.com/news/munster/arid-40058495.html",
@@ -27,7 +34,7 @@ export const Articles = [
     "date": "12th September 2020",
     "provider": "Independent.ie"
   },
-   {
+  {
     "name": "Irish Cancer Society - Marathon in a month",
     "content": "The marathon EVERYONE can complete! You can walk, run or jog it, at your own speed and in your own time, but the main thing is you CAN do it, you CAN complete a marathon!.........",
     "link": "https://marathoninamonth.cancer.ie/",
