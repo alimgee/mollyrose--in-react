@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "New children's rooms a big help at hospital",
+    "content": "Ciara Galvin speaks to those involved in providing three state-of-the-art rooms at SUH's paediatric ward.........",
+    "link": "https://www.independent.ie/regionals/sligochampion/news/new-childrens-rooms-a-big-help-at-hospital-39643136.html",
+    "date": "24th October 2020",
+    "provider": "Independent.ie"
+  },
+  {
     "name": "Ryan Tubridy left moved by story of fund raising for child cancer charity",
     "content": "The Dubliner was clearly touched by the tale of Amelia, Tessa, Emma-Jane and Megan, four eight-year-olds who set out on a readathon to raise money for the Gavin Glynn Foundation.........",
     "link": "https://www.irishmirror.ie/showbiz/irish-showbiz/ryan-tubridy-left-moved-story-22888327",
