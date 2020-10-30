@@ -1,5 +1,26 @@
 export const Articles = [
   {
+    "name": "Stars support campaign for Wexford tot Fiadh O’Connor who is battling rare childhood cancer",
+    "content": "THE family of a little girl diagnosed with a rare and aggressive form of cancer are on a mission to raise €375k.........",
+    "link": "https://www.thesun.ie/tvandshowbiz/6066718/amy-huberman-fiadh-oconnor-cancer-treatment-neuroblastoma/",
+    "date": " 27th October 2020",
+    "provider": "The Sun"
+  },
+   {
+    "name": "Watch: Christine Lampard talks about childhood cancer and her worst fears",
+    "content": "She chatted to four mums during Childhood Cancer Awareness Month who have been supported by CLIC Sargent.........",
+    "link": "https://www.belfastlive.co.uk/whats-on/be/watch-christine-lampard-talks-childhood-19074313",
+    "date": "27th October 2020",
+    "provider": "Belfact live"
+  },
+   {
+    "name": "New children's rooms a big help at hospital",
+    "content": "Ciara Galvin speaks to those involved in providing three state-of-the-art rooms at SUH's paediatric ward.........",
+    "link": "https://www.independent.ie/regionals/sligochampion/news/new-childrens-rooms-a-big-help-at-hospital-39643136.html",
+    "date": "24th October 2020",
+    "provider": "independent.ie"
+  },
+  {
     "name": "Ryan Tubridy left moved by story of fund raising for child cancer charity",
     "content": "The Dubliner was clearly touched by the tale of Amelia, Tessa, Emma-Jane and Megan, four eight-year-olds who set out on a readathon to raise money for the Gavin Glynn Foundation.........",
     "link": "https://www.irishmirror.ie/showbiz/irish-showbiz/ryan-tubridy-left-moved-story-22888327",
