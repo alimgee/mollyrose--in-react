@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Watch: Christine Lampard talks about childhood cancer and her worst fears",
+    "content": "She chatted to four mums during Childhood Cancer Awareness Month who have been supported by CLIC Sargent.........",
+    "link": "https://www.belfastlive.co.uk/whats-on/be/watch-christine-lampard-talks-childhood-19074313",
+    "date": "27th October 2020",
+    "provider": "Belfact live"
+  },
+  {
     "name": "New children's rooms a big help at hospital",
     "content": "Ciara Galvin speaks to those involved in providing three state-of-the-art rooms at SUH's paediatric ward.........",
     "link": "https://www.independent.ie/regionals/sligochampion/news/new-childrens-rooms-a-big-help-at-hospital-39643136.html",
