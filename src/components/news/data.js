@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Stars support campaign for Wexford tot Fiadh O’Connor who is battling rare childhood cancer",
+    "content": "THE family of a little girl diagnosed with a rare and aggressive form of cancer are on a mission to raise €375k.........",
+    "link": "https://www.thesun.ie/tvandshowbiz/6066718/amy-huberman-fiadh-oconnor-cancer-treatment-neuroblastoma/",
+    "date": " 27th October 2020",
+    "provider": "The Sun"
+  },
+  {
     "name": "Watch: Christine Lampard talks about childhood cancer and her worst fears",
     "content": "She chatted to four mums during Childhood Cancer Awareness Month who have been supported by CLIC Sargent.........",
     "link": "https://www.belfastlive.co.uk/whats-on/be/watch-christine-lampard-talks-childhood-19074313",
