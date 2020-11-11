@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Cork GAA club praised for their 'monumental efforts' after raising almost €94k for charity",
+    "content": "Earlier this week, Aoibheann's Pink Tie took to social media to thank Aghabullogue GAA and everyone else who participated in or donated to the fundraiser..........",
+    "link": "https://www.echolive.ie/corknews/Cork-GAA-club-praised-for-their-monumental-efforts-after-raising-almost-94k-for-childrens-cancer-charity-71d973ab-6e14-4f9c-bb49-44c71e49e520-ds",
+    "date": "5th November 2020",
+    "provider": "echo live"
+  },
+  {
     "name": "Stars support campaign for Wexford tot Fiadh O’Connor who is battling rare childhood cancer",
     "content": "THE family of a little girl diagnosed with a rare and aggressive form of cancer are on a mission to raise €375k.........",
     "link": "https://www.thesun.ie/tvandshowbiz/6066718/amy-huberman-fiadh-oconnor-cancer-treatment-neuroblastoma/",
