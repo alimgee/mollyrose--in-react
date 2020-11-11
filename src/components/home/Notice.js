@@ -1,19 +1,19 @@
 import React from 'react'
-import {
+/* import {
     Container,
     Row,
     Col,
     CardText,
     Card,
     CardBody,
-} from 'reactstrap';
+} from 'reactstrap'; */
 
 
 const NoticeSection = (props) => {
 
     return (
         <section>
-            <Container className="mb-2">
+{/*             <Container className="mb-2">
                 <Row>
                     <Col>
                         <Card>
@@ -30,7 +30,7 @@ const NoticeSection = (props) => {
                         </Card>
                     </Col>                   
                 </Row>
-            </Container>
+            </Container> */}
         </section>
     )
  
