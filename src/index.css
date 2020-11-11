@@ -249,6 +249,10 @@ p {
   font-size: .75rem;
 }
 
+.fa-star-o, .fa-tree, .fa-bell-o{
+  color: gold;
+}
+
 /* 
   ##Device = Desktops
   ##Screen = 1281px to higher resolution desktops
