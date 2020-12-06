@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Cloud doodles help charities after artist's daughter diagnosed with leukemia",
+    "content": "A Dublin-based artist is using his cloud doodle project to give back to charities who have helped his family through a difficult year...........",
+    "link": "https://www.rte.ie/news/2020/1121/1179622-cloud-doodle-charity/",
+    "date": "23rd November 2020",
+    "provider": "rte.ie"
+  },
+  {
     "name": "Cork GAA club praised for their 'monumental efforts' after raising almost €94k for charity",
     "content": "Earlier this week, Aoibheann's Pink Tie took to social media to thank Aghabullogue GAA and everyone else who participated in or donated to the fundraiser..........",
     "link": "https://www.echolive.ie/corknews/Cork-GAA-club-praised-for-their-monumental-efforts-after-raising-almost-94k-for-childrens-cancer-charity-71d973ab-6e14-4f9c-bb49-44c71e49e520-ds",
