@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Department of Health can't give timeline for rollout of publicly-funded IVF",
+    "content": "Paul Gordan of the Irish Cancer Society said that “we don’t want to see people who can’t afford IVF not having access to a treatment that is available in most European countries..........",
+    "link": "https://www.thejournal.ie/no-timeline-for-ivf-funding-5302561-Jan2021/",
+    "date": "4th January 2021",
+    "provider": "The Journal"
+  },
+  {
     "name": "Helping children – and adults – to explore and understand grief",
     "content": "Stephen Teap would have happily not put up a single decoration for the first Christmas without his wife Irene, but he knew he had to “keep the show on the road”........",
     "link": "https://www.irishtimes.com/life-and-style/health-family/parenting/helping-children-and-adults-to-explore-and-understand-grief-1.4429912",
