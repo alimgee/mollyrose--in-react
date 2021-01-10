@@ -14,7 +14,6 @@ const App = () => {
             </Helmet>
       <Intro />
       <Quote />
-      <NoticeSection />
       <CardSection />
       </main>)
 }

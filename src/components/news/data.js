@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Helping children – and adults – to explore and understand grief",
+    "content": "Stephen Teap would have happily not put up a single decoration for the first Christmas without his wife Irene, but he knew he had to “keep the show on the road”........",
+    "link": "https://www.irishtimes.com/life-and-style/health-family/parenting/helping-children-and-adults-to-explore-and-understand-grief-1.4429912",
+    "date": "16th December 2020",
+    "provider": "Irish Times"
+  },
+  {
     "name": "Cloud doodles help charities after artist's daughter diagnosed with leukemia",
     "content": "A Dublin-based artist is using his cloud doodle project to give back to charities who have helped his family through a difficult year...........",
     "link": "https://www.rte.ie/news/2020/1121/1179622-cloud-doodle-charity/",
