@@ -3,7 +3,7 @@ import Intro from './Intro'
 import Quote from './Quote'
 import CardSection from './Cards'
 import { Helmet } from 'react-helmet'
-import NoticeSection from './Notice'
+//import NoticeSection from './Notice'
 
 const App = () => {
   return (
