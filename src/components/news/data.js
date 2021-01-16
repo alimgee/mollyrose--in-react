@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Parents 'exploited' by overseas cancer treatments",
+    "content": "Consultant Prof Owen Smith and oncologist Dr Michael Capra of Our Lady’s Hospital in Crumlin, Dublin, said they fear parents of seriously sick children are being “exploited”...........",
+    "link": "https://www.irishtimes.com/news/health/parents-exploited-by-overseas-youth-cancer-treatments-1.1900886",
+    "date": "16th Jan 2021",
+    "provider": "Irish Times"
+  },
+  {
     "name": "Department of Health can't give timeline for rollout of publicly-funded IVF",
     "content": "Paul Gordan of the Irish Cancer Society said that “we don’t want to see people who can’t afford IVF not having access to a treatment that is available in most European countries..........",
     "link": "https://www.thejournal.ie/no-timeline-for-ivf-funding-5302561-Jan2021/",
