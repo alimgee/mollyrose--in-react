@@ -5,7 +5,6 @@ import {
   Col,
   Card,
   CardBody,
-  CardText,
 } from 'reactstrap'
 
 const Signs = (props) => {
@@ -19,7 +18,7 @@ const Signs = (props) => {
             it may be helpful to be aware of the symptoms of childhood cancer:</p>
           <Card>
             <CardBody>
-              <CardText>
+              <div className = "card-text">
               <div className= "signs"> 
               <p><strong>C</strong>ontinued, unexplained weight loss</p>
               <p><strong>H</strong>eadaches, often with early morning vomiting</p>
@@ -33,7 +32,7 @@ const Signs = (props) => {
               <p><strong>E</strong>ye or vision changes which occur suddenly and persist</p>
               <p><strong>R</strong>ecurrent or persistent fevers of unknown origin</p>
               </div>
-              </CardText>
+              </div>
 
             </CardBody>
           </Card>
