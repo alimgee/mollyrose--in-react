@@ -1,9 +1,9 @@
 import React, { useState } from "react";
 import { Articles } from "./data";
+import {ArchivedArticles} from "./archive_data"
 import {
     Card,
     CardBody,
-    CardText,
     Collapse,
     Button
 } from 'reactstrap';
@@ -21,21 +21,21 @@ export const Items = () => {
                     <div key={key}>
                         {
                             <Card>
-                                <a href={data.link} target="_blank" rel="noopener noreferrer" title="Go to news article" style={{ textDecoration: "none" }}>
+                                
                                     <CardBody>
-                                        <div className="row">
+
                                             <div >
-                                                <CardText>
-                                                    <p className="news-header">{data.name} </p>
-                                                    <p className="news-content">{data.content}</p>
+                                                <div className = "card-text">
+                                                <a href={data.link} target="_blank" rel="noopener noreferrer" title="Go to news article" style={{ textDecoration: "none" }}><div className="news-header">{data.name} </div></a>
+                                                    <div className="news-content">{data.content}</div>
                                                     <span className="small muted">(source: {data.provider})</span>
-                                                </CardText>
+                                                </div>
                                                 <div className="small muted ">{data.date}</div>
                                             </div>
-                                            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Driving awareness of childhood cancer." data-hashtags="ChildhoodCancer" data-related="mollyrosecancer" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
-                                        </div>
+                                            <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" className="twitter-share-button" data-text="Driving awareness of childhood cancer." data-hashtags="ChildhoodCancer" data-related="mollyrosecancer" data-show-count="false">Tweet</a>
+                                            <script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
+
                                     </CardBody>
-                                </a>
                             </Card>
                         }
                     </div>
@@ -45,26 +45,26 @@ export const Items = () => {
                 <Button  onClick={toggle} style={{ marginBottom: '1.5rem', padding: '0.5rem 1.5rem 0.5rem  1.5rem' }}>Toggle</Button>
                 <Collapse isOpen={isOpen}>
                     <div>
-                        {Articles.map((data, key) => {
+                        {ArchivedArticles.map((data, key) => {
                             return (
                                 <div key={key}>
                                     {
                                         <Card>
-                                            <a href={data.link} target="_blank" rel="noopener noreferrer" title="Go to news article" style={{ textDecoration: "none" }}>
+                                            
                                                 <CardBody>
                                                     <div className="row">
                                                         <div >
-                                                            <CardText>
-                                                                <p className="news-header">{data.name} </p>
-                                                                <p className="news-content">{data.content}</p>
-                                                                <span className="small muted">(source: {data.provider})</span>
-                                                            </CardText>
+                                                        <div className = "card-text">
+                                                        <a href={data.link} target="_blank" rel="noopener noreferrer" title="Go to news article" style={{ textDecoration: "none" }}> <div className="news-header">{data.name} </div> </a>
+                                                    <div className="news-content">{data.content}</div>
+                                                    <span className="small muted">(source: {data.provider})</span>
+                                                </div>
                                                             <div className="small muted ">{data.date}</div>
                                                         </div>
-                                                        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" class="twitter-share-button" data-text="Driving awareness of childhood cancer." data-hashtags="ChildhoodCancer" data-related="mollyrosecancer" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charset="utf-8"></script>
+                                                        <a href="https://twitter.com/share?ref_src=twsrc%5Etfw" className="twitter-share-button" data-text="Driving awareness of childhood cancer." data-hashtags="ChildhoodCancer" data-related="mollyrosecancer" data-show-count="false">Tweet</a><script async src="https://platform.twitter.com/widgets.js" charSet="utf-8"></script>
                                                     </div>
                                                 </CardBody>
-                                            </a>
+                                            
                                         </Card>
                                     }
                                 </div>
