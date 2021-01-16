@@ -95,6 +95,23 @@ p{
   font-weight: bolder;
   font-size: 1.1rem;
 }
+
+/** overwriting built in reactstrap button automatically added to code */
+
+
+.btn-secondary{
+  color: blanchedalmond;
+  background-color: #b1225a;
+  font-weight: bold;
+  border-color: #b1225a;
+  border-radius: .75rem;
+}
+.btn-secondary:hover{
+  color: #b1225a;
+  background-color: black;
+  font-weight: bolder;
+  font-size: 1.1rem;
+}
 blockquote{
   color: #b1225a;
   font-weight: 900;
