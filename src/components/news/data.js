@@ -1,5 +1,19 @@
 export const Articles = [
   {
+    "name": "Trial for Children with Neuroblastoma Funded by Parent-Led Charities",
+    "content": "In a landmark in paediatric oncology research, children with high-risk neuroblastoma across Europe and North America will be treated together for the first time...........",
+    "link": "https://www.solvingkidscancer.org.uk/landmark-trans-atlantic-trial-for-children-with-high-risk-neuroblastoma",
+    "date": "Feb 2021",
+    "provider": "www.solvingkidscancer.org.uk"
+  },
+  {
+    "name": "Equal access to financial services needed for cancer survivors",
+    "content": "MANY cancer survivors face discrimination when accessing financial services such as mortgages and insurances...........",
+    "link": "https://www.echolive.ie/business/arid-40231352.html",
+    "date": "22 Feb 2021",
+    "provider": "Echo Live"
+  },
+  {
     "name": "Parents 'exploited' by overseas cancer treatments",
     "content": "Consultant Prof Owen Smith and oncologist Dr Michael Capra of Our Lady’s Hospital in Crumlin, Dublin, said they fear parents of seriously sick children are being “exploited”...........",
     "link": "https://www.irishtimes.com/news/health/parents-exploited-by-overseas-youth-cancer-treatments-1.1900886",
