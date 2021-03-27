@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Outpouring of support for 'brave' Sarah Harding as she says she's got 'months' left",
+    "content": "Girls Aloud singer Sarah Harding shared details of her diagnosis and treatment in full for the first time, devastating fans...........",
+    "link": "https://www.irishmirror.ie/showbiz/celebrity-news/outpouring-support-brave-sarah-harding-23707168",
+    "date": "13 March 2021",
+    "provider": "Irish Mirror"
+  },
+  {
     "name": "Trial for Children with Neuroblastoma Funded by Parent-Led Charities",
     "content": "In a landmark in paediatric oncology research, children with high-risk neuroblastoma across Europe and North America will be treated together for the first time...........",
     "link": "https://www.solvingkidscancer.org.uk/landmark-trans-atlantic-trial-for-children-with-high-risk-neuroblastoma",
