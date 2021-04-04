@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "'Daisy Lodge brings us together as a family '",
+    "content": "Daisy Hill Lodge in Co Down has been a haven for Dublin girl April Banks and her family as she has battled neuroblastoma as a baby and a stroke in 2019. ...........",
+    "link": "https://www.independent.ie/life/health-wellbeing/daisy-lodge-brings-us-together-as-a-family-it-isa-lovely-break-away-from-the-reality-of-childhoodcancer-40248844.html",
+    "date": "29th March 2021",
+    "provider": "Independent.ie"
+  },
+  {
     "name": "Outpouring of support for 'brave' Sarah Harding as she says she's got 'months' left",
     "content": "Girls Aloud singer Sarah Harding shared details of her diagnosis and treatment in full for the first time, devastating fans...........",
     "link": "https://www.irishmirror.ie/showbiz/celebrity-news/outpouring-support-brave-sarah-harding-23707168",
