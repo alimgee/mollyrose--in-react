@@ -1,5 +1,19 @@
 export const Articles = [
   {
+    "name": "Family’s Atlantic Crossings Are Life Givers",
+    "content": "An Irish family flew to New York to make sure that their three-year-old daughter did not suffer a cancer relapse.........",
+    "link": "https://www.irishecho.com/2021/04/familys-atlantic-crossings-are-life-givers/",
+    "date": "20th April 2021",
+    "provider": "Irish Echo"
+  },
+  {
+    "name": "Daffodil Day raises €6m for Irish Cancer Society services",
+    "content": "An incredible €6m raised on the ‘most important Daffodil Day ever’ will fund vital services for cancer patients.........",
+    "link": "https://www.meathchronicle.ie/2021/03/30/daffodil-day-raises-e6m-for-irish-cancer-society-services/",
+    "date": "31st March 2021",
+    "provider": "Meath Chronicle"
+  },
+  {
     "name": "'Daisy Lodge brings us together as a family '",
     "content": "Daisy Hill Lodge in Co Down has been a haven for Dublin girl April Banks and her family as she has battled neuroblastoma as a baby and a stroke in 2019. ...........",
     "link": "https://www.independent.ie/life/health-wellbeing/daisy-lodge-brings-us-together-as-a-family-it-isa-lovely-break-away-from-the-reality-of-childhoodcancer-40248844.html",
