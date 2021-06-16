@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "‘Worth the wait’: The families getting help from the Cancer Fund for Children",
+    "content": "Belfast-based organisation hopes to roll out its services across all of Ireland’s 32 counties ...........",
+    "link": "https://www.irishtimes.com/life-and-style/health-family/parenting/worth-the-wait-the-families-getting-help-from-the-cancer-fund-for-children-1.4568586",
+    "date": "26 May 2021",
+    "provider": "Irish times"
+  },
+  {
     "name": "Family’s Atlantic Crossings Are Life Givers",
     "content": "An Irish family flew to New York to make sure that their three-year-old daughter did not suffer a cancer relapse.........",
     "link": "https://www.irishecho.com/2021/04/familys-atlantic-crossings-are-life-givers/",
