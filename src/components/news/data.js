@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Scientists use AI to help discover new treatment for deadly childhood cancer",
+    "content": "Scientists have used artificial intelligence (AI) to create a drug regime for children with a type of deadly brain cancer ...........",
+    "link": "https://www.irishexaminer.com/world/arid-40705094.html",
+    "date": "23 September 2021",
+    "provider": "Irish Examiner"
+  },
+  {
     "name": "‘Worth the wait’: The families getting help from the Cancer Fund for Children",
     "content": "Belfast-based organisation hopes to roll out its services across all of Ireland’s 32 counties ...........",
     "link": "https://www.irishtimes.com/life-and-style/health-family/parenting/worth-the-wait-the-families-getting-help-from-the-cancer-fund-for-children-1.4568586",
