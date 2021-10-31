@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Barretstown: What Paul Newman did for Saoirse, Kitty, Julie and Isaac ",
+    "content": "The Co Kildare camp was set up by a man who ‘wanted to help kids who were sick feel a bit normal’ ...........",
+    "link": "https://www.irishtimes.com/life-and-style/barretstown-what-paul-newman-did-for-saoirse-kitty-julie-and-isaac-1.4688899",
+    "date": "30th October 2021",
+    "provider": "Irish Times"
+  },
+  {
     "name": "Scientists use AI to help discover new treatment for deadly childhood cancer",
     "content": "Scientists have used artificial intelligence (AI) to create a drug regime for children with a type of deadly brain cancer ...........",
     "link": "https://www.irishexaminer.com/world/arid-40705094.html",
