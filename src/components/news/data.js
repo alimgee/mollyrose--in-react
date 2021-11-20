@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "Childhood cancer diagnosis costs families €15,000, says Irish Cancer Society ",
+    "content": "A childhood cancer diagnosis can hit family incomes on average by €15,300 annually on top of other crippling expenses ...........",
+    "link": "https://www.irishexaminer.com/news/arid-40733589.html",
+    "date": "1st November 2021",
+    "provider": "Irish Examiner"
+  },
+  {
     "name": "Barretstown: What Paul Newman did for Saoirse, Kitty, Julie and Isaac ",
     "content": "The Co Kildare camp was set up by a man who ‘wanted to help kids who were sick feel a bit normal’ ...........",
     "link": "https://www.irishtimes.com/life-and-style/barretstown-what-paul-newman-did-for-saoirse-kitty-julie-and-isaac-1.4688899",
