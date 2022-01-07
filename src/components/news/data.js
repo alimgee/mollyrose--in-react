@@ -1,5 +1,12 @@
 export const Articles = [
   {
+    "name": "HRB investment of €21 million in cancer clinical trials will transform cancer care in Ireland ",
+    "content": "The funding will tackle childhood and adult cancers, making a real difference to the lives of cancer patient ...........",
+    "link": "https://www.hrb.ie/news/news-story/article/hrb-investment-of-e21-million-in-cancer-clinical-trials-will-transform-cancer-care-in-ireland/",
+    "date": "16th December 2020",
+    "provider": "hrb.ie"
+  },  
+  {
     "name": "Childhood cancer diagnosis costs families €15,000, says Irish Cancer Society ",
     "content": "A childhood cancer diagnosis can hit family incomes on average by €15,300 annually on top of other crippling expenses ...........",
     "link": "https://www.irishexaminer.com/news/arid-40733589.html",
