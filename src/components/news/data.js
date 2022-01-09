@@ -1,5 +1,13 @@
 export const Articles = [
   {
+    "name": "A four-year-old cancer survivor's simple wish ",
+    "content": "Hazel Bass celebrated the end of her cancer treatment with a trip to Cork to fulfill her wish of staying in a nice hotel and eating fancy cakes...........",
+    "link": "https://www.irishexaminer.com/news/munster/arid-40778256.html",
+    "date": "4th Jan 2022",
+    "provider": "Irish Examiner"
+  },
+
+  {
     "name": "HRB investment of €21 million in cancer clinical trials will transform cancer care in Ireland ",
     "content": "The funding will tackle childhood and adult cancers, making a real difference to the lives of cancer patient ...........",
     "link": "https://www.hrb.ie/news/news-story/article/hrb-investment-of-e21-million-in-cancer-clinical-trials-will-transform-cancer-care-in-ireland/",
