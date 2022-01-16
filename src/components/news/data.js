@@ -1,4 +1,11 @@
-export const Articles = [
+export const Articles = [  {
+  "name": "Initiative will allow pets to visit sick children in hospital ",
+  "content": "Work has begun on a unique project at Crumlin's Children's Hospital in Dublin that will see patients able to receive visits from their pet............",
+  "link": "https://www.irishexaminer.com/news/arid-40782408.html",
+  "date": "10th Jan 2022",
+  "provider": "Irish Examiner"
+},
+
   {
     "name": "A four-year-old cancer survivor's simple wish ",
     "content": "Hazel Bass celebrated the end of her cancer treatment with a trip to Cork to fulfill her wish of staying in a nice hotel and eating fancy cakes...........",
