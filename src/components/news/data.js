@@ -1,10 +1,18 @@
-export const Articles = [  {
-  "name": "Initiative will allow pets to visit sick children in hospital ",
-  "content": "Work has begun on a unique project at Crumlin's Children's Hospital in Dublin that will see patients able to receive visits from their pet............",
-  "link": "https://www.irishexaminer.com/news/arid-40782408.html",
-  "date": "10th Jan 2022",
-  "provider": "Irish Examiner"
-},
+export const Articles = [
+  {
+    "name": "‘To look at your own child and know they are going to die is utterly indescribable’",
+    "content": "Yavanna Keogh in one of a series of powerful blogs as she and her husband, Lar, watched cancer consume their son, Oscar.............",
+    "link": "https://www.irishtimes.com/life-and-style/health-family/parenting/to-look-at-your-own-child-and-know-they-are-going-to-die-is-utterly-indescribable-1.4775477",
+    "date": "18th Jan 2022",
+    "provider": "Irish Times"
+  },
+  {
+    "name": "Initiative will allow pets to visit sick children in hospital ",
+    "content": "Work has begun on a unique project at Crumlin's Children's Hospital in Dublin that will see patients able to receive visits from their pet............",
+    "link": "https://www.irishexaminer.com/news/arid-40782408.html",
+    "date": "10th Jan 2022",
+    "provider": "Irish Examiner"
+  },
 
   {
     "name": "A four-year-old cancer survivor's simple wish ",
@@ -20,7 +28,7 @@ export const Articles = [  {
     "link": "https://www.hrb.ie/news/news-story/article/hrb-investment-of-e21-million-in-cancer-clinical-trials-will-transform-cancer-care-in-ireland/",
     "date": "16th December 2020",
     "provider": "hrb.ie"
-  },  
+  },
   {
     "name": "Childhood cancer diagnosis costs families €15,000, says Irish Cancer Society ",
     "content": "A childhood cancer diagnosis can hit family incomes on average by €15,300 annually on top of other crippling expenses ...........",
@@ -237,6 +245,6 @@ export const Articles = [  {
     "link": "https://www.neuroblastoma.org.uk/childhood-cancer-awareness-month?gclid=CjwKCAjw1ej5BRBhEiwAfHyh1GjOgykHqHVLMbBgItn4R3RsEPbWCfATT1dFhec5GjM9-JW_KLpnchoCM0sQAvD_BwE",
     "date": "17th August 2020",
     "provider": "neuroblastoma.org.uk"
-  } 
+  }
 ]
 
